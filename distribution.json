@@ -1,14 +1,9 @@
 {
   "version": "1.0.0",
-  "rss": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/notifications.xml",
-  "discord": {
-    "clientId": "12345",
-    "smallImageText": "PotoDistro",
-    "smallImageKey": "seal-circle"
-  },
   "servers": [
     {
       "id": "potocine",
+<<<<<<< HEAD
       "name": "PotoCine",
       "description": "Modpack PotoCine version 1.0.0",
       "icon": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/icon.png",
@@ -235,6 +230,11 @@
           }
         }
       ]
+=======
+      "name": "PotoCiné",
+      "version": "1.0.0",
+      "modules": []
+>>>>>>> 64f37dd560f92ac04ffe880e7115bef8de876e86
     }
   ]
 }
