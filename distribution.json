@@ -8,16 +8,16 @@
   },
   "servers": [
     {
-      "id": "potociné",
-      "name": "PotoCiné",
-      "description": "Modpack PotoCiné version 1.0.0",
+      "id": "potocine",
+      "name": "PotoCine",
+      "description": "Modpack PotoCine version 1.0.0",
       "icon": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/icon.png",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "PotoDistro",
-        "largeImageText": "Modpack PotoCiné",
+        "largeImageText": "Modpack PotoCine",
         "largeImageKey": "server-icon"
       },
       "mainServer": true,
