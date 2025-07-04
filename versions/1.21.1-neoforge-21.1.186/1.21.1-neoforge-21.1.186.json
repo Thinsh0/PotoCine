@@ -1,0 +1,32 @@
+{
+  "id": "1.21.1-neoforge-21.1.186",
+  "inheritsFrom": "1.21.1",
+  "releaseTime": "2024-01-01T00:00:00+00:00",
+  "time": "2024-01-01T00:00:00+00:00",
+  "type": "release",
+  "mainClass": "cpw.mods.bootstraplauncher.BootstrapLauncher",
+  "arguments": {
+    "game": [
+      "--launchTarget",
+      "forgeclient"
+    ],
+    "jvm": [
+      "-Djava.system.class.loader=cpw.mods.modlauncher.api.LegacyClassLoader",
+      "-Dforge.logging.console.level=debug",
+      "-Dforge.logging.markers=REGISTRIES",
+      "-DlegacyClassPath.file=${classpath_separator}",
+      "-cp",
+      "${classpath}"
+    ]
+  },
+  "libraries": [
+    {
+      "name": "net.neoforged:neoforge:21.1.186",
+      "url": "https://maven.neoforged.net/releases/"
+    }
+  ],
+  "logging": {},
+  "processors": [],
+  "minecraftArguments": "",
+  "minimumLauncherVersion": 21
+}
