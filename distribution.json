@@ -36,7 +36,19 @@
             "size": 6923917,
             "MD5": "2973791629522b511192ef66c285758d",
             "url": "https://github.com/Thinsh0/PotoCine/raw/main/bin/neoforge-1.21.1-47.0.20.jar"
-          }
+          },
+          "subModules": [
+            {
+              "id": "1.21.1-neoforge-21.1.186",
+              "name": "NeoForge (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2847,
+                "MD5": "634eb4fbfca39469a5ff902f7d090d9b",
+                "url": "https://github.com/Thinsh0/PotoCine/raw/main/versions/1.21.1-neoforge-21.1.186/1.21.1-neoforge-21.1.186.json"
+              }
+            }
+          ]
         },
         {
           "id": "generated.neoforgemod:copycats:3.0.2+mc.1.21.1-neoforge@jar",
@@ -146,6 +158,17 @@
             "size": 401179,
             "MD5": "0c40993f3c8e3b4beec7b7886f566616",
             "url": "https://github.com/Thinsh0/PotoCine/raw/main/shaderpacks.zip",
+            "path": "shaderpacks/"
+          }
+        },
+        {
+          "id": "generated.file:shaderpacks:1.0.0@zip",
+          "name": "shaderpacks Custom Pack",
+          "type": "File",
+          "artifact": {
+            "size": 401179,
+            "MD5": "0c40993f3c8e3b4beec7b7886f566616",
+            "url": "https://github.com/Thinsh0/PotoCine/raw/main/shaderpacks_custom.zip",
             "path": "shaderpacks/"
           }
         }
