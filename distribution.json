@@ -59,16 +59,6 @@
           }
         },
         {
-          "id": "generated.neoforgemod:entityculling:neoforge-1.8.0-mc1.21@jar",
-          "name": "entityculling-neoforge-1.8.0-mc1.21",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 467982,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/main/mods/entityculling-neoforge-1.8.0-mc1.21.jar",
-            "MD5": "bf78018d198840ccfe648f1f11aac890"
-          }
-        },
-        {
           "id": "generated.neoforgemod:Essential_1:3-8-4_neoforge_1-21-1@jar",
           "name": "Essential_1-3-8-4_neoforge_1-21-1",
           "type": "ForgeMod",
@@ -136,16 +126,6 @@
             "size": 37854313,
             "url": "https://github.com/Thinsh0/PotoCine/raw/main/mods/watermedia-2.1.25.jar",
             "MD5": "b6a86c0336d0cebce6a3738ef26bb81c"
-          }
-        },
-        {
-          "id": "generated.neoforgemod:worldedit:mod-7.3.8@jar",
-          "name": "worldedit-mod-7.3.8",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6222854,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/main/mods/worldedit-mod-7.3.8.jar",
-            "MD5": "f5d6f09ca5c4b1958780d01a099b779d"
           }
         },
         {
