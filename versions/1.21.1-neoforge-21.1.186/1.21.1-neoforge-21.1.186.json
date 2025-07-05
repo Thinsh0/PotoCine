@@ -11,12 +11,8 @@
       "forgeclient"
     ],
     "jvm": [
-      "-Djava.system.class.loader=cpw.mods.modlauncher.api.LegacyClassLoader",
       "-Dforge.logging.console.level=debug",
-      "-Dforge.logging.markers=REGISTRIES",
-      "-DlegacyClassPath.file=${classpath_separator}",
-      "-cp",
-      "${classpath}"
+      "-Dforge.logging.markers=REGISTRIES"
     ]
   },
   "libraries": [

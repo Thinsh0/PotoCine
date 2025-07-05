@@ -29,7 +29,7 @@
           }
         },
         {
-          "id": "net.neoforged:neoforge:47.0.20",
+          "id": "net.neoforged:neoforge:21.1.186",
           "name": "NeoForge",
           "type": "ForgeHosted",
           "artifact": {
@@ -39,13 +39,13 @@
           },
           "subModules": [
             {
-              "id": "1.21.1-neoforge-47.0.20",
+              "id": "1.21.1-neoforge-21.1.186",
               "name": "NeoForge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 687,
-                "MD5": "df640598d83f08fb5dbcc7e478fd48e5",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/main/versions/1.21.1-neoforge-47.0.20/1.21.1-neoforge-47.0.20.json"
+                "size": 689,
+                "MD5": "bc8e5109c8b7ea57be8d43e850d0591e",
+                "url": "https://github.com/Thinsh0/PotoCine/raw/main/versions/1.21.1-neoforge-21.1.186/1.21.1-neoforge-21.1.186.json"
               }
             }
           ]
