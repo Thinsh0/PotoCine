@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "https://github.com/Thinsh0/PotoCine/raw/main/notifications.xml",
+  "rss": "https://votre-serveur.com/modpacks/notifications.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -8,10 +8,10 @@
   },
   "servers": [
     {
-      "id": "potocine",
-      "name": "PotoCine",
-      "description": "Modpack PotoCine version 1.0.0 running Minecraft 1.21.1",
-      "icon": "https://github.com/Thinsh0/PotoCine/raw/main/icon.png",
+      "id": "modpack",
+      "name": "Modpack",
+      "description": "Modpack Modpack version 1.0.0 running Minecraft 1.21.1",
+      "icon": "https://votre-serveur.com/modpacks/icon.png",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.21.1",
@@ -25,7 +25,7 @@
           "artifact": {
             "size": 26836906,
             "MD5": "0b90a83eb9910468c60152f6594b9271",
-            "url": "https://github.com/Thinsh0/PotoCine/raw/main/versions/1.21.1/1.21.1.jar"
+            "url": "https://votre-serveur.com/modpacks/versions/1.21.1/1.21.1.jar"
           }
         },
         {
@@ -35,7 +35,7 @@
           "artifact": {
             "size": 6923917,
             "MD5": "2973791629522b511192ef66c285758d",
-            "url": "https://github.com/Thinsh0/PotoCine/raw/main/bin/neoforge-21.1.186.jar"
+            "url": "https://votre-serveur.com/modpacks/bin/neoforge-21.1.186.jar"
           },
           "subModules": [
             {
@@ -45,7 +45,7 @@
               "artifact": {
                 "size": 881,
                 "MD5": "b96941db8e61f4ea7d45bfdadfc5d25c",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/main/versions/1.21.1-neoforge-21.1.186/1.21.1-neoforge-21.1.186.json"
+                "url": "https://votre-serveur.com/modpacks/versions/1.21.1-neoforge-21.1.186/1.21.1-neoforge-21.1.186.json"
               }
             }
           ]
@@ -56,7 +56,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1790416,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/main/mods/copycats-3.0.2+mc.1.21.1-neoforge.jar",
+            "url": "https://votre-serveur.com/modpacks/mods/copycats-3.0.2+mc.1.21.1-neoforge.jar",
             "MD5": "cde8b4432b19fde830c50ce07a2b89b9"
           }
         },
@@ -66,7 +66,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 18599196,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/main/mods/create-1.21.1-6.0.6.jar",
+            "url": "https://votre-serveur.com/modpacks/mods/create-1.21.1-6.0.6.jar",
             "MD5": "39db2efac7c0482c2c1bfdbaaab317b3"
           }
         },
@@ -76,7 +76,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1206816,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/main/mods/CreativeCore_NEOFORGE_v2.13.7_mc1.21.1.jar",
+            "url": "https://votre-serveur.com/modpacks/mods/CreativeCore_NEOFORGE_v2.13.7_mc1.21.1.jar",
             "MD5": "9824bb8cd69f94d5cd698cd998113eb7"
           }
         },
@@ -86,7 +86,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 53625713,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/main/mods/Essential_1-3-8-4_neoforge_1-21-1.jar",
+            "url": "https://votre-serveur.com/modpacks/mods/Essential_1-3-8-4_neoforge_1-21-1.jar",
             "MD5": "7704173d48743103b7067501150dc89f"
           }
         },
@@ -96,7 +96,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 118911,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/main/mods/ferritecore-7.0.2-neoforge.jar",
+            "url": "https://votre-serveur.com/modpacks/mods/ferritecore-7.0.2-neoforge.jar",
             "MD5": "e176f7b9672b5b36130dc2f46ea96f48"
           }
         },
@@ -106,7 +106,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2438548,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/main/mods/iris-neoforge-1.8.12+mc1.21.1.jar",
+            "url": "https://votre-serveur.com/modpacks/mods/iris-neoforge-1.8.12+mc1.21.1.jar",
             "MD5": "6c1122aa7c2b1a4f24831e394c5b513f"
           }
         },
@@ -116,7 +116,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 747405,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/main/mods/lithium-neoforge-0.15.0+mc1.21.1.jar",
+            "url": "https://votre-serveur.com/modpacks/mods/lithium-neoforge-0.15.0+mc1.21.1.jar",
             "MD5": "429c693999fad17d6fe35f2aeea92b18"
           }
         },
@@ -126,7 +126,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1162994,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/main/mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
+            "url": "https://votre-serveur.com/modpacks/mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
             "MD5": "e5018c782d851fea76be0205b7616e5d"
           }
         },
@@ -136,7 +136,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 245059,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/main/mods/waterframes-NEOFORGE-mc1.21.1-v2.1.15.jar",
+            "url": "https://votre-serveur.com/modpacks/mods/waterframes-NEOFORGE-mc1.21.1-v2.1.15.jar",
             "MD5": "a583eae74a0b3ea802b4e7519d88129a"
           }
         },
@@ -146,7 +146,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 37854313,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/main/mods/watermedia-2.1.25.jar",
+            "url": "https://votre-serveur.com/modpacks/mods/watermedia-2.1.25.jar",
             "MD5": "b6a86c0336d0cebce6a3738ef26bb81c"
           }
         },
@@ -157,7 +157,7 @@
           "artifact": {
             "size": 401179,
             "MD5": "0c40993f3c8e3b4beec7b7886f566616",
-            "url": "https://github.com/Thinsh0/PotoCine/raw/main/shaderpacks_custom.zip",
+            "url": "https://votre-serveur.com/modpacks/shaderpacks_custom.zip",
             "path": "shaderpacks/"
           }
         }
