@@ -8,9 +8,9 @@
   },
   "servers": [
     {
-      "id": "potocine_test",
-      "name": "PotoCine Test",
-      "description": "Modpack PotoCine Test version 1.0.0 running Minecraft 1.21.1",
+      "id": "potocine",
+      "name": "PotoCine",
+      "description": "Modpack PotoCine version 1.0.0 running Minecraft 1.21.1",
       "icon": "https://github.com/Thinsh0/PotoCine/raw/main/icon.png",
       "version": "1.0.0",
       "address": "localhost:25565",
