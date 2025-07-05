@@ -29,7 +29,7 @@
           }
         },
         {
-          "id": "net.neoforged:neoforge:21.1.186",
+          "id": "net.neoforged:neoforge:47.0.20",
           "name": "NeoForge",
           "type": "ForgeHosted",
           "artifact": {
@@ -39,13 +39,13 @@
           },
           "subModules": [
             {
-              "id": "1.21.1-neoforge-21.1.186",
+              "id": "1.21.1-neoforge-47.0.20",
               "name": "NeoForge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 862,
-                "MD5": "7cab7eed1cb1ee67fcd9b951be562191",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/main/versions/1.21.1-neoforge-21.1.186/1.21.1-neoforge-21.1.186.json"
+                "size": 687,
+                "MD5": "df640598d83f08fb5dbcc7e478fd48e5",
+                "url": "https://github.com/Thinsh0/PotoCine/raw/main/versions/1.21.1-neoforge-47.0.20/1.21.1-neoforge-47.0.20.json"
               }
             }
           ]
@@ -148,17 +148,6 @@
             "size": 37854313,
             "url": "https://github.com/Thinsh0/PotoCine/raw/main/mods/watermedia-2.1.25.jar",
             "MD5": "b6a86c0336d0cebce6a3738ef26bb81c"
-          }
-        },
-        {
-          "id": "generated.file:shaderpacks:1.0.0@zip",
-          "name": "Shaderpacks Pack",
-          "type": "File",
-          "artifact": {
-            "size": 401179,
-            "MD5": "0c40993f3c8e3b4beec7b7886f566616",
-            "url": "https://github.com/Thinsh0/PotoCine/raw/main/shaderpacks.zip",
-            "path": "shaderpacks/"
           }
         },
         {
