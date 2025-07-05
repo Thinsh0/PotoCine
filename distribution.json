@@ -8,9 +8,9 @@
   },
   "servers": [
     {
-      "id": "potocine_test",
-      "name": "PotoCine Test",
-      "description": "Modpack PotoCine Test version 1.0.0 running Minecraft 1.21.1",
+      "id": "potocine",
+      "name": "PotoCine",
+      "description": "Modpack PotoCine version 1.0.0 running Minecraft 1.21.1",
       "icon": "https://github.com/Thinsh0/PotoCine/raw/main/icon.png",
       "version": "1.0.0",
       "address": "localhost:25565",
@@ -29,23 +29,24 @@
           }
         },
         {
-          "id": "net.neoforged:neoforge:21.1.186",
-          "name": "NeoForge",
+          "id": "net.neoforged:neoforge:21.1.186:universal",
+          "name": "Minecraft NeoForge (universal jar)",
           "type": "ForgeHosted",
           "artifact": {
             "size": 6923917,
             "MD5": "2973791629522b511192ef66c285758d",
             "url": "https://github.com/Thinsh0/PotoCine/raw/main/bin/neoforge-21.1.186.jar"
           },
+          "classpath": false,
           "subModules": [
             {
-              "id": "1.21.1-neoforge-21.1.186",
-              "name": "NeoForge (version.json)",
+              "id": "neoforge-21.1.186",
+              "name": "Minecraft NeoForge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 877,
-                "MD5": "160f51fdaa79486c8eab6f558dc5392c",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/main/versions/1.21.1-neoforge-21.1.186/1.21.1-neoforge-21.1.186.json"
+                "size": 2060,
+                "MD5": "3c6edd2b453f06fe7e370de20e7a7f7a",
+                "url": "https://github.com/Thinsh0/PotoCine/raw/main/versions/neoforge-21.1.186/neoforge-21.1.186.json"
               }
             }
           ]
