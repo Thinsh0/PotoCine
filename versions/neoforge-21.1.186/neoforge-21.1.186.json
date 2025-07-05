@@ -1,10 +1,10 @@
 {
   "id": "neoforge-21.1.186",
   "inheritsFrom": "1.21.1",
-  "releaseTime": "2025-06-17T07:41:26.157324013",
-  "time": "2025-06-17T07:41:26.157324013",
+  "releaseTime": "2024-01-01T00:00:00+00:00",
+  "time": "2024-01-01T00:00:00+00:00",
   "type": "release",
-  "mainClass": "cpw.mods.bootstraplauncher.BootstrapLauncher",
+  "mainClass": "net.minecraft.client.main.Main",
   "arguments": {
     "game": [
       "--fml.neoForgeVersion",
@@ -22,18 +22,8 @@
       "-Djava.net.preferIPv6Addresses=system",
       "-DignoreList=client-extra,1.21.1.jar",
       "-DlibraryDirectory=${library_directory}",
-      "-p",
-      "${library_directory}/cpw/mods/bootstraplauncher/2.0.2/bootstraplauncher-2.0.2.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/3.0.8/securejarhandler-3.0.8.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.7/asm-9.7.jar${classpath_separator}${library_directory}/net/neoforged/JarJarFileSystems/0.4.1/JarJarFileSystems-0.4.1.jar",
-      "--add-modules",
-      "ALL-MODULE-PATH",
-      "--add-opens",
-      "java.base/java.util.jar=cpw.mods.securejarhandler",
-      "--add-opens",
-      "java.base/java.lang.invoke=cpw.mods.securejarhandler",
-      "--add-exports",
-      "java.base/sun.security.util=cpw.mods.securejarhandler",
-      "--add-exports",
-      "jdk.naming.dns/com.sun.jndi.dns=java.naming"
+      "-cp",
+      "${classpath}"
     ]
   },
   "libraries": [
