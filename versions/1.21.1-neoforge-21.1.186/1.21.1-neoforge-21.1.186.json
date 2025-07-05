@@ -8,11 +8,18 @@
   "arguments": {
     "game": [
       "--launchTarget",
-      "forgeclient"
+      "neoforge",
+      "--fml.neoForgeVersion",
+      "21.1.186",
+      "--fml.mcVersion",
+      "1.21.1",
+      "--fml.neoFormVersion",
+      "20231217.130947"
     ],
     "jvm": [
-      "-Dforge.logging.console.level=debug",
-      "-Dforge.logging.markers=REGISTRIES"
+      "-Dneoforge.logging.console.level=debug",
+      "-Dneoforge.logging.markers=REGISTRIES",
+      "-Dneoforge.version=21.1.186"
     ]
   },
   "libraries": [

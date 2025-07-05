@@ -43,8 +43,8 @@
               "name": "NeoForge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 689,
-                "MD5": "bc8e5109c8b7ea57be8d43e850d0591e",
+                "size": 881,
+                "MD5": "b96941db8e61f4ea7d45bfdadfc5d25c",
                 "url": "https://github.com/Thinsh0/PotoCine/raw/main/versions/1.21.1-neoforge-21.1.186/1.21.1-neoforge-21.1.186.json"
               }
             }
