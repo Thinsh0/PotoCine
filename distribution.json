@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "1391421434592493729",
-    "smallImageText": "potogames",
-    "smallImageKey": "cinema"
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
   "servers": [
     {
@@ -31,7 +31,7 @@
           "artifact": {
             "size": 3046803,
             "MD5": "87ba09cfdbc4dd835b42b93af4020eae",
-            "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/net/neoforged/neoforge/21.1.186/neoforge-21.1.186-universal.jar"
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/net/neoforged/neoforge/21.1.186/neoforge-21.1.186-universal.jar"
           },
           "subModules": [
             {
@@ -41,7 +41,7 @@
               "artifact": {
                 "size": 21148,
                 "MD5": "342f3d9786bd88479d64ef411a443da8",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/versions/neoforge-21.1.186/neoforge-21.1.186.json"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/versions/neoforge-21.1.186/neoforge-21.1.186.json"
               }
             },
             {
@@ -52,7 +52,7 @@
               "artifact": {
                 "size": 5635501,
                 "MD5": "ba3f37f2fefb5f56138f02af302f7ff9",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/net/neoforged/neoforge/21.1.186/neoforge-21.1.186-client.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/net/neoforged/neoforge/21.1.186/neoforge-21.1.186-client.jar"
               },
               "subModules": []
             },
@@ -64,7 +64,7 @@
               "artifact": {
                 "size": 12372293,
                 "MD5": "973b9700852b66bb7b74df75b0113db2",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-extra.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-extra.jar"
               },
               "subModules": []
             },
@@ -76,7 +76,7 @@
               "artifact": {
                 "size": 14464635,
                 "MD5": "21a31126d805df21389e0b2ff8cb7411",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-slim.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-slim.jar"
               },
               "subModules": []
             },
@@ -88,7 +88,7 @@
               "artifact": {
                 "size": 18725656,
                 "MD5": "24d790d385dff0146020f1875b969e52",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-srg.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-srg.jar"
               },
               "subModules": []
             },
@@ -99,7 +99,7 @@
               "artifact": {
                 "size": 261715,
                 "MD5": "75827860b30b162b43a937b9330cff8f",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/net/neoforged/fancymodloader/earlydisplay/4.0.41/earlydisplay-4.0.41.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/net/neoforged/fancymodloader/earlydisplay/4.0.41/earlydisplay-4.0.41.jar"
               }
             },
             {
@@ -109,7 +109,7 @@
               "artifact": {
                 "size": 504881,
                 "MD5": "9060c908cf4a8effeaa790dc337f1b0c",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/net/neoforged/fancymodloader/loader/4.0.41/loader-4.0.41.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/net/neoforged/fancymodloader/loader/4.0.41/loader-4.0.41.jar"
               }
             },
             {
@@ -119,7 +119,7 @@
               "artifact": {
                 "size": 2347,
                 "MD5": "f65434f122b97b1ac8fe56ff54873b5f",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/net/neoforged/accesstransformers/at-modlauncher/10.0.1/at-modlauncher-10.0.1.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/net/neoforged/accesstransformers/at-modlauncher/10.0.1/at-modlauncher-10.0.1.jar"
               }
             },
             {
@@ -129,7 +129,7 @@
               "artifact": {
                 "size": 67234,
                 "MD5": "3a01a09a2b0900381dce48e118882849",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/net/neoforged/accesstransformers/10.0.1/accesstransformers-10.0.1.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/net/neoforged/accesstransformers/10.0.1/accesstransformers-10.0.1.jar"
               }
             },
             {
@@ -139,7 +139,7 @@
               "artifact": {
                 "size": 30340,
                 "MD5": "95eee080d9de7cb764adcb8fa2ecf3fb",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/net/neoforged/bus/8.0.5/bus-8.0.5.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/net/neoforged/bus/8.0.5/bus-8.0.5.jar"
               }
             },
             {
@@ -149,7 +149,7 @@
               "artifact": {
                 "size": 22659,
                 "MD5": "4527abf6b7116dae1c2178f7beab0ba2",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/net/neoforged/coremods/7.0.3/coremods-7.0.3.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/net/neoforged/coremods/7.0.3/coremods-7.0.3.jar"
               }
             },
             {
@@ -159,7 +159,7 @@
               "artifact": {
                 "size": 116486,
                 "MD5": "70fa994f64b2620d20dc325bab758d1b",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/cpw/mods/modlauncher/11.0.5/modlauncher-11.0.5.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/cpw/mods/modlauncher/11.0.5/modlauncher-11.0.5.jar"
               }
             },
             {
@@ -169,7 +169,7 @@
               "artifact": {
                 "size": 2550,
                 "MD5": "818b398f65b8dc5af802b721fd1d0b56",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/net/neoforged/mergetool/2.0.0/mergetool-2.0.0-api.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/net/neoforged/mergetool/2.0.0/mergetool-2.0.0-api.jar"
               }
             },
             {
@@ -179,7 +179,7 @@
               "artifact": {
                 "size": 39516,
                 "MD5": "9bc7366ba0f0f364b3d9d1fcd853b235",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/com/electronwill/night-config/toml/3.8.2/toml-3.8.2.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/com/electronwill/night-config/toml/3.8.2/toml-3.8.2.jar"
               }
             },
             {
@@ -189,7 +189,7 @@
               "artifact": {
                 "size": 380967,
                 "MD5": "d6a1f12dee450edefaadb23275828947",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/com/electronwill/night-config/core/3.8.2/core-3.8.2.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/com/electronwill/night-config/core/3.8.2/core-3.8.2.jar"
               }
             },
             {
@@ -199,7 +199,7 @@
               "artifact": {
                 "size": 17168,
                 "MD5": "20d1fe8972655189f69845554ee1a4d1",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/net/neoforged/JarJarSelector/0.4.1/JarJarSelector-0.4.1.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/net/neoforged/JarJarSelector/0.4.1/JarJarSelector-0.4.1.jar"
               }
             },
             {
@@ -209,7 +209,7 @@
               "artifact": {
                 "size": 15648,
                 "MD5": "c2f30969dd8b1dc8e3f78c731bd2c5c8",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/net/neoforged/JarJarMetadata/0.4.1/JarJarMetadata-0.4.1.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/net/neoforged/JarJarMetadata/0.4.1/JarJarMetadata-0.4.1.jar"
               }
             },
             {
@@ -219,7 +219,7 @@
               "artifact": {
                 "size": 58077,
                 "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
               }
             },
             {
@@ -229,7 +229,7 @@
               "artifact": {
                 "size": 18281,
                 "MD5": "d4a375bf382f726cf1a650ccb38a736c",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
               }
             },
             {
@@ -239,7 +239,7 @@
               "artifact": {
                 "size": 16949,
                 "MD5": "179d3abaf9736dbd8fbd4fa98e1c6ea1",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/net/minecrell/terminalconsoleappender/1.3.0/terminalconsoleappender-1.3.0.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/net/minecrell/terminalconsoleappender/1.3.0/terminalconsoleappender-1.3.0.jar"
               }
             },
             {
@@ -249,7 +249,7 @@
               "artifact": {
                 "size": 1494751,
                 "MD5": "4808c070bf19415a5cb4a0cb5e569b12",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar"
               }
             },
             {
@@ -259,7 +259,7 @@
               "artifact": {
                 "size": 2167292,
                 "MD5": "a9b3360e6a486cf62c1952c7816b7d97",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
               }
             },
             {
@@ -269,7 +269,7 @@
               "artifact": {
                 "size": 657952,
                 "MD5": "4e5c3f5e6b0b965ef241d7d72ac8971f",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar"
               }
             },
             {
@@ -279,7 +279,7 @@
               "artifact": {
                 "size": 11116,
                 "MD5": "169bd8c006e69d83267466e311d4049d",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/cpw/mods/bootstraplauncher/2.0.2/bootstraplauncher-2.0.2.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/cpw/mods/bootstraplauncher/2.0.2/bootstraplauncher-2.0.2.jar"
               }
             },
             {
@@ -289,7 +289,7 @@
               "artifact": {
                 "size": 103765,
                 "MD5": "eb0d5290a2681c2dbeb8088b82e0fbf9",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/cpw/mods/securejarhandler/3.0.8/securejarhandler-3.0.8.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/cpw/mods/securejarhandler/3.0.8/securejarhandler-3.0.8.jar"
               }
             },
             {
@@ -299,7 +299,7 @@
               "artifact": {
                 "size": 73498,
                 "MD5": "c8c3d9ccf240144e74d94ff658b024c9",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
               }
             },
             {
@@ -309,7 +309,7 @@
               "artifact": {
                 "size": 94559,
                 "MD5": "62498ef324bdab15f407d703f7d78d19",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
               }
             },
             {
@@ -319,7 +319,7 @@
               "artifact": {
                 "size": 35151,
                 "MD5": "3d63508405f5610fc2ea673ff5471553",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
               }
             },
             {
@@ -329,7 +329,7 @@
               "artifact": {
                 "size": 51934,
                 "MD5": "4ab1aaec43c77a2d9b56e6d6d496f705",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
               }
             },
             {
@@ -339,7 +339,7 @@
               "artifact": {
                 "size": 126113,
                 "MD5": "f5adf3bfc54fb3d2cd8e3a1f275084bc",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
               }
             },
             {
@@ -349,7 +349,7 @@
               "artifact": {
                 "size": 31807,
                 "MD5": "8d75021e5aeb04652b4b9ae3df500b9e",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/net/neoforged/JarJarFileSystems/0.4.1/JarJarFileSystems-0.4.1.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/net/neoforged/JarJarFileSystems/0.4.1/JarJarFileSystems-0.4.1.jar"
               }
             },
             {
@@ -359,7 +359,7 @@
               "artifact": {
                 "size": 78146,
                 "MD5": "eb0d9dffe9b0eddead68fe678be76c49",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
               }
             },
             {
@@ -369,7 +369,7 @@
               "artifact": {
                 "size": 64579,
                 "MD5": "45630e54b0f0ac2b3c80462515ad8fda",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar"
               }
             },
             {
@@ -379,7 +379,7 @@
               "artifact": {
                 "size": 326305,
                 "MD5": "dd465ddb2a8dbf69eb6c94e69a0d5f0f",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/org/antlr/antlr4-runtime/4.13.1/antlr4-runtime-4.13.1.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/org/antlr/antlr4-runtime/4.13.1/antlr4-runtime-4.13.1.jar"
               }
             },
             {
@@ -389,7 +389,7 @@
               "artifact": {
                 "size": 15343,
                 "MD5": "d01ea99740509a58222a426cc36f5456",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/com/mojang/logging/1.2.7/logging-1.2.7.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/com/mojang/logging/1.2.7/logging-1.2.7.jar"
               }
             },
             {
@@ -399,7 +399,7 @@
               "artifact": {
                 "size": 27364,
                 "MD5": "82cc94f378ffb853efe084ee9bf4c463",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/org/apache/logging/log4j/log4j-slf4j2-impl/2.22.1/log4j-slf4j2-impl-2.22.1.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/org/apache/logging/log4j/log4j-slf4j2-impl/2.22.1/log4j-slf4j2-impl-2.22.1.jar"
               }
             },
             {
@@ -409,7 +409,7 @@
               "artifact": {
                 "size": 1900022,
                 "MD5": "b5987ee449d4be4244e2e214683c45af",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/org/apache/logging/log4j/log4j-core/2.22.1/log4j-core-2.22.1.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/org/apache/logging/log4j/log4j-core/2.22.1/log4j-core-2.22.1.jar"
               }
             },
             {
@@ -419,7 +419,7 @@
               "artifact": {
                 "size": 335001,
                 "MD5": "27db0eb89ae965179480df00d8d1cf03",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/org/apache/logging/log4j/log4j-api/2.22.1/log4j-api-2.22.1.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/org/apache/logging/log4j/log4j-api/2.22.1/log4j-api-2.22.1.jar"
               }
             },
             {
@@ -429,7 +429,7 @@
               "artifact": {
                 "size": 171052,
                 "MD5": "9ece57ca56a1688d1d09fe2c48e7a292",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/org/jline/jline-reader/3.20.0/jline-reader-3.20.0.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/org/jline/jline-reader/3.20.0/jline-reader-3.20.0.jar"
               }
             },
             {
@@ -439,7 +439,7 @@
               "artifact": {
                 "size": 228481,
                 "MD5": "e45dace437743e6b5e75c81eb455fd3e",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/org/jline/jline-terminal/3.20.0/jline-terminal-3.20.0.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/org/jline/jline-terminal/3.20.0/jline-terminal-3.20.0.jar"
               }
             },
             {
@@ -449,7 +449,7 @@
               "artifact": {
                 "size": 501218,
                 "MD5": "84351f7991a0e6722f00e96a4ccc376f",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/commons-io/commons-io/2.15.1/commons-io-2.15.1.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/commons-io/commons-io/2.15.1/commons-io-2.15.1.jar"
               }
             },
             {
@@ -459,7 +459,7 @@
               "artifact": {
                 "size": 69393,
                 "MD5": "79812fd073afe1c046bc1ea46ad28095",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/net/minecraftforge/srgutils/0.4.15/srgutils-0.4.15.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/net/minecraftforge/srgutils/0.4.15/srgutils-0.4.15.jar"
               }
             },
             {
@@ -469,7 +469,7 @@
               "artifact": {
                 "size": 3041591,
                 "MD5": "5fe031b3b35ed56182478811a931d617",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar"
               }
             },
             {
@@ -479,7 +479,7 @@
               "artifact": {
                 "size": 4617,
                 "MD5": "091883993ef5bfa91da01dcc8fc52236",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar"
               }
             },
             {
@@ -489,7 +489,7 @@
               "artifact": {
                 "size": 2199,
                 "MD5": "d094c22570d65e132c19cea5d352e381",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"
               }
             },
             {
@@ -499,7 +499,7 @@
               "artifact": {
                 "size": 19936,
                 "MD5": "dd83accb899363c32b07d7a1b2e4ce40",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar"
               }
             },
             {
@@ -509,7 +509,7 @@
               "artifact": {
                 "size": 223979,
                 "MD5": "fc9418b779d9d57dcd52197006cbdb9b",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/org/checkerframework/checker-qual/3.33.0/checker-qual-3.33.0.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/org/checkerframework/checker-qual/3.33.0/checker-qual-3.33.0.jar"
               }
             },
             {
@@ -519,7 +519,7 @@
               "artifact": {
                 "size": 16017,
                 "MD5": "64145d0e7fee5a69ed7b84cf402de998",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/com/google/errorprone/error_prone_annotations/2.18.0/error_prone_annotations-2.18.0.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/com/google/errorprone/error_prone_annotations/2.18.0/error_prone_annotations-2.18.0.jar"
               }
             },
             {
@@ -529,7 +529,7 @@
               "artifact": {
                 "size": 9301,
                 "MD5": "c50af69b704dc91050efb98e0dff66d1",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar"
               }
             },
             {
@@ -539,7 +539,7 @@
               "artifact": {
                 "size": 283367,
                 "MD5": "df6097815738cb31fc56391553210843",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar"
               }
             },
             {
@@ -549,7 +549,7 @@
               "artifact": {
                 "size": 263253,
                 "MD5": "3ae76ff0195ada460d495efe1fb50d17",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/org/codehaus/plexus/plexus-utils/3.3.0/plexus-utils-3.3.0.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/org/codehaus/plexus/plexus-utils/3.3.0/plexus-utils-3.3.0.jar"
               }
             },
             {
@@ -559,7 +559,7 @@
               "artifact": {
                 "size": 250861,
                 "MD5": "fcc3e4df4990088c964f687b62f7c448",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/repo/lib/com/machinezoo/noexception/noexception/1.7.1/noexception-1.7.1.jar"
+                "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/repo/lib/com/machinezoo/noexception/noexception/1.7.1/noexception-1.7.1.jar"
               }
             }
           ]
@@ -570,7 +570,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1790416,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/servers/PotoCin%C3%A9-1.21.1/forgemods/required/copycats-3.0.2+mc.1.21.1-neoforge.jar",
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoCin%C3%A9-1.21.1/forgemods/required/copycats-3.0.2+mc.1.21.1-neoforge.jar",
             "MD5": "cde8b4432b19fde830c50ce07a2b89b9"
           }
         },
@@ -580,7 +580,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 18599196,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/servers/PotoCin%C3%A9-1.21.1/forgemods/required/create-1.21.1-6.0.6.jar",
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoCin%C3%A9-1.21.1/forgemods/required/create-1.21.1-6.0.6.jar",
             "MD5": "39db2efac7c0482c2c1bfdbaaab317b3"
           }
         },
@@ -590,7 +590,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1206816,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/servers/PotoCin%C3%A9-1.21.1/forgemods/required/CreativeCore_NEOFORGE_v2.13.7_mc1.21.1.jar",
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoCin%C3%A9-1.21.1/forgemods/required/CreativeCore_NEOFORGE_v2.13.7_mc1.21.1.jar",
             "MD5": "9824bb8cd69f94d5cd698cd998113eb7"
           }
         },
@@ -600,7 +600,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 53625713,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/servers/PotoCin%C3%A9-1.21.1/forgemods/required/Essential_1-3-8-4_neoforge_1-21-1.jar",
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoCin%C3%A9-1.21.1/forgemods/required/Essential_1-3-8-4_neoforge_1-21-1.jar",
             "MD5": "7704173d48743103b7067501150dc89f"
           }
         },
@@ -610,7 +610,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 118911,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/servers/PotoCin%C3%A9-1.21.1/forgemods/required/ferritecore-7.0.2-neoforge.jar",
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoCin%C3%A9-1.21.1/forgemods/required/ferritecore-7.0.2-neoforge.jar",
             "MD5": "e176f7b9672b5b36130dc2f46ea96f48"
           }
         },
@@ -620,7 +620,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2438548,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/servers/PotoCin%C3%A9-1.21.1/forgemods/optionalon/iris-neoforge-1.8.12+mc1.21.1.jar",
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoCin%C3%A9-1.21.1/forgemods/optionalon/iris-neoforge-1.8.12+mc1.21.1.jar",
             "MD5": "6c1122aa7c2b1a4f24831e394c5b513f"
           },
           "required": {
@@ -633,7 +633,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 747405,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/servers/PotoCin%C3%A9-1.21.1/forgemods/required/lithium-neoforge-0.15.0+mc1.21.1.jar",
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoCin%C3%A9-1.21.1/forgemods/required/lithium-neoforge-0.15.0+mc1.21.1.jar",
             "MD5": "429c693999fad17d6fe35f2aeea92b18"
           }
         },
@@ -643,7 +643,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1162994,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/servers/PotoCin%C3%A9-1.21.1/forgemods/required/sodium-neoforge-0.6.13+mc1.21.1.jar",
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoCin%C3%A9-1.21.1/forgemods/required/sodium-neoforge-0.6.13+mc1.21.1.jar",
             "MD5": "e5018c782d851fea76be0205b7616e5d"
           }
         },
@@ -653,7 +653,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 245059,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/servers/PotoCin%C3%A9-1.21.1/forgemods/required/waterframes-NEOFORGE-mc1.21.1-v2.1.15.jar",
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoCin%C3%A9-1.21.1/forgemods/required/waterframes-NEOFORGE-mc1.21.1-v2.1.15.jar",
             "MD5": "a583eae74a0b3ea802b4e7519d88129a"
           }
         },
@@ -663,7 +663,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 37854313,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/servers/PotoCin%C3%A9-1.21.1/forgemods/required/watermedia-2.1.25.jar",
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoCin%C3%A9-1.21.1/forgemods/required/watermedia-2.1.25.jar",
             "MD5": "b6a86c0336d0cebce6a3738ef26bb81c"
           }
         },
@@ -673,7 +673,7 @@
           "type": "File",
           "artifact": {
             "size": 1669167,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/servers/PotoCin%C3%A9-1.21.1/files/shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip",
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoCin%C3%A9-1.21.1/files/shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip",
             "MD5": "fb757db17e378d3174611d4d0698280d",
             "path": "shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip"
           }
@@ -684,7 +684,7 @@
           "type": "File",
           "artifact": {
             "size": 1121678,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/servers/PotoCin%C3%A9-1.21.1/files/shaderpacks/BSL_v10.0.zip",
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoCin%C3%A9-1.21.1/files/shaderpacks/BSL_v10.0.zip",
             "MD5": "a4d53a8d2a97d99e4e9ebc16eae7a39c",
             "path": "shaderpacks/BSL_v10.0.zip"
           }
@@ -695,7 +695,7 @@
           "type": "File",
           "artifact": {
             "size": 456328,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/servers/PotoCin%C3%A9-1.21.1/files/shaderpacks/ComplementaryReimagined_r5.5.1.zip",
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoCin%C3%A9-1.21.1/files/shaderpacks/ComplementaryReimagined_r5.5.1.zip",
             "MD5": "e49c87af1c2bb64337068f6928f06bff",
             "path": "shaderpacks/ComplementaryReimagined_r5.5.1.zip"
           }
@@ -706,7 +706,7 @@
           "type": "File",
           "artifact": {
             "size": 456332,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/servers/PotoCin%C3%A9-1.21.1/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoCin%C3%A9-1.21.1/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
             "MD5": "576ef06da170458879f3a03e685d487a",
             "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
           }
@@ -717,7 +717,7 @@
           "type": "File",
           "artifact": {
             "size": 1390284,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/servers/PotoCin%C3%A9-1.21.1/files/shaderpacks/Solas%20Shader%20V2.9.zip",
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoCin%C3%A9-1.21.1/files/shaderpacks/Solas%20Shader%20V2.9.zip",
             "MD5": "ef57da621286b6881d946c9c6efff328",
             "path": "shaderpacks/Solas Shader V2.9.zip"
           }
@@ -728,7 +728,7 @@
           "type": "File",
           "artifact": {
             "size": 2439355,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/servers/PotoCin%C3%A9-1.21.1/files/shaderpacks/superDuperVanilla.zip",
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoCin%C3%A9-1.21.1/files/shaderpacks/superDuperVanilla.zip",
             "MD5": "800161a1981939adf01ae2e0ee7b3b3f",
             "path": "shaderpacks/superDuperVanilla.zip"
           }
