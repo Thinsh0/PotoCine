@@ -165,8 +165,8 @@
           "name": "shaderpacks Custom Pack",
           "type": "File",
           "artifact": {
-            "size": 0,
-            "MD5": "00000000000000000000000000000000",
+            "size": 401155,
+            "MD5": "f88ca3527597646e824652f4ce2682ee",
             "url": "https://github.com/Thinsh0/PotoCine/raw/main/shaderpacks_custom.zip",
             "path": "shaderpacks/"
           }
