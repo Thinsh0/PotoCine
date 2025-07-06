@@ -1,42 +1,37 @@
 {
   "id": "neoforge-21.1.186",
-  "type": "release",
+  "inheritsFrom": "1.21.1",
   "releaseTime": "2024-01-01T00:00:00+00:00",
   "time": "2024-01-01T00:00:00+00:00",
-  "mainClass": "net.minecraft.client.main.Main",
+  "type": "release",
+  "mainClass": "cpw.mods.bootstraplauncher.BootstrapLauncher",
   "arguments": {
     "game": [
-      "--username",
-      "${{auth_player_name}}",
-      "--version",
-      "neoforge-21.1.186",
-      "--gameDir",
-      "${{game_directory}}",
-      "--assetsDir",
-      "${{assets_root}}",
-      "--assetIndex",
-      "neoforge-21.1.186",
-      "--uuid",
-      "${{auth_uuid}}",
-      "--accessToken",
-      "${{auth_access_token}}",
-      "--userType",
-      "${{user_type}}",
-      "--versionType",
-      "release"
+      "--fml.neoForgeVersion",
+      "21.1.186",
+      "--fml.fmlVersion",
+      "4.0.39",
+      "--fml.mcVersion",
+      "1.21.1",
+      "--fml.neoFormVersion",
+      "20240808.144430",
+      "--launchTarget",
+      "forgeclient"
     ],
     "jvm": [
+      "-Djava.net.preferIPv6Addresses=system",
+      "-DignoreList=client-extra,1.21.1.jar",
+      "-DlibraryDirectory=${library_directory}",
       "-cp",
-      "${{classpath}}"
+      "${classpath}"
     ]
   },
-  "libraries": [],
-  "downloads": {
-    "client": {
-      "url": "https://piston-data.mojang.com/v1/objects/{sha1}/neoforge-21.1.186.jar",
-      "sha1": "2973791629522b511192ef66c285758d",
-      "size": 6923917
+  "libraries": [
+    {
+      "name": "net.neoforged:neoforge:21.1.186",
+      "url": "https://maven.neoforged.net/releases/"
     }
-  },
+  ],
+  "logging": {},
   "minimumLauncherVersion": 21
 }

@@ -2,88 +2,34 @@
   "version": "1.0.0",
   "rss": "https://github.com/Thinsh0/PotoCine/raw/main/notifications.xml",
   "discord": {
-    "clientId": "DISCORD_CLIENT_ID",
-    "smallImageText": "SMALL_IMAGE_TEXT",
-    "smallImageKey": "SMALL_IMAGE_KEY"
+    "clientId": "YOUR_DISCORD_CLIENT_ID",
+    "smallImageText": "Playing Modded Minecraft",
+    "smallImageKey": "modpack_icon"
   },
   "servers": [
     {
-      "id": "potogames",
-      "name": "PotoGames",
-      "description": "A test of PotoCine distribution",
+      "id": "main_server",
+      "name": "¨PotoGames",
+      "description": "T",
+      "icon": null,
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.21.1",
+      "discord": {
+        "clientId": "YOUR_DISCORD_CLIENT_ID",
+        "smallImageText": "Playing Modded Minecraft",
+        "smallImageKey": "modpack_icon"
+      },
       "mainServer": true,
       "autoconnect": true,
       "modules": [
         {
-          "id": "net.minecraft:client:1.21.1",
-          "name": "Minecraft 1.21.1",
-          "type": "Version",
-          "artifact": {
-            "size": 26836906,
-            "MD5": "0b90a83eb9910468c60152f6594b9271",
-            "url": "https://github.com/Thinsh0/PotoCine/raw/main/bin/1.21.1.jar"
-          },
-          "mainClass": "net.minecraft.client.main.Main",
-          "arguments": {
-            "game": [],
-            "jvm": [
-              "-Djava.net.preferIPv6Addresses=system",
-              "-Djava.library.path=${library_directory}",
-              "-cp",
-              "${classpath}"
-            ]
-          }
-        },
-        {
-          "id": "net.neoforged:neoforge:21.1.186:universal",
-          "name": "NeoForge",
-          "type": "ForgeHosted",
-          "artifact": {
-            "size": 6923917,
-            "MD5": "2973791629522b511192ef66c285758d",
-            "url": "https://github.com/Thinsh0/PotoCine/raw/main/bin/neoforge-21.1.186.jar"
-          },
-          "subModules": [
-            {
-              "id": "neoforge-21.1.186",
-              "name": "NeoForge (version.json)",
-              "type": "VersionManifest",
-              "artifact": {
-                "size": 1000,
-                "MD5": "00000000000000000000000000000000",
-                "url": "https://github.com/Thinsh0/PotoCine/raw/main/versions/neoforge-21.1.186/neoforge-21.1.186.json"
-              }
-            }
-          ]
-        },
-        {
-          "id": "generated.neoforgemod:creativecore_neoforge_v2.13.7_mc1.21.1:1.0.0@jar",
-          "name": "CreativeCore_NEOFORGE_v2.13.7_mc1.21.1",
+          "id": "mods_copycats-3.0.2+mc.1.21.1-neoforge",
+          "name": "copycats-3.0.2+mc.1.21.1-neoforge.jar",
           "type": "ForgeMod",
-          "artifact": {
-            "size": 1206816,
-            "MD5": "9824bb8cd69f94d5cd698cd998113eb7",
-            "url": "https://github.com/Thinsh0/PotoCine/raw/main/mods/CreativeCore_NEOFORGE_v2.13.7_mc1.21.1.jar"
-          }
-        },
-        {
-          "id": "generated.neoforgemod:essential_1_3_8_4_neoforge_1_21_1:1.0.0@jar",
-          "name": "Essential_1-3-8-4_neoforge_1-21-1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 53625713,
-            "MD5": "7704173d48743103b7067501150dc89f",
-            "url": "https://github.com/Thinsh0/PotoCine/raw/main/mods/Essential_1-3-8-4_neoforge_1-21-1.jar"
+          "required": {
+            "value": true
           },
-          "required": false
-        },
-        {
-          "id": "generated.neoforgemod:copycats_3.0.2+mc.1.21.1_neoforge:1.0.0@jar",
-          "name": "copycats-3.0.2+mc.1.21.1-neoforge",
-          "type": "ForgeMod",
           "artifact": {
             "size": 1790416,
             "MD5": "cde8b4432b19fde830c50ce07a2b89b9",
@@ -91,9 +37,12 @@
           }
         },
         {
-          "id": "generated.neoforgemod:create_1.21.1_6.0.6:1.0.0@jar",
-          "name": "create-1.21.1-6.0.6",
+          "id": "mods_create-1.21.1-6.0.6",
+          "name": "create-1.21.1-6.0.6.jar",
           "type": "ForgeMod",
+          "required": {
+            "value": true
+          },
           "artifact": {
             "size": 18599196,
             "MD5": "39db2efac7c0482c2c1bfdbaaab317b3",
@@ -101,9 +50,38 @@
           }
         },
         {
-          "id": "generated.neoforgemod:ferritecore_7.0.2_neoforge:1.0.0@jar",
-          "name": "ferritecore-7.0.2-neoforge",
+          "id": "mods_CreativeCore_NEOFORGE_v2.13.7_mc1.21.1",
+          "name": "CreativeCore_NEOFORGE_v2.13.7_mc1.21.1.jar",
           "type": "ForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 1206816,
+            "MD5": "9824bb8cd69f94d5cd698cd998113eb7",
+            "url": "https://github.com/Thinsh0/PotoCine/raw/main/mods/CreativeCore_NEOFORGE_v2.13.7_mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "mods_Essential_1-3-8-4_neoforge_1-21-1",
+          "name": "Essential_1-3-8-4_neoforge_1-21-1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 53625713,
+            "MD5": "7704173d48743103b7067501150dc89f",
+            "url": "https://github.com/Thinsh0/PotoCine/raw/main/mods/Essential_1-3-8-4_neoforge_1-21-1.jar"
+          }
+        },
+        {
+          "id": "mods_ferritecore-7.0.2-neoforge",
+          "name": "ferritecore-7.0.2-neoforge.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true
+          },
           "artifact": {
             "size": 118911,
             "MD5": "e176f7b9672b5b36130dc2f46ea96f48",
@@ -111,9 +89,12 @@
           }
         },
         {
-          "id": "generated.neoforgemod:iris_neoforge_1.8.12+mc1.21.1:1.0.0@jar",
-          "name": "iris-neoforge-1.8.12+mc1.21.1",
+          "id": "mods_iris-neoforge-1.8.12+mc1.21.1",
+          "name": "iris-neoforge-1.8.12+mc1.21.1.jar",
           "type": "ForgeMod",
+          "required": {
+            "value": true
+          },
           "artifact": {
             "size": 2438548,
             "MD5": "6c1122aa7c2b1a4f24831e394c5b513f",
@@ -121,9 +102,12 @@
           }
         },
         {
-          "id": "generated.neoforgemod:lithium_neoforge_0.15.0+mc1.21.1:1.0.0@jar",
-          "name": "lithium-neoforge-0.15.0+mc1.21.1",
+          "id": "mods_lithium-neoforge-0.15.0+mc1.21.1",
+          "name": "lithium-neoforge-0.15.0+mc1.21.1.jar",
           "type": "ForgeMod",
+          "required": {
+            "value": true
+          },
           "artifact": {
             "size": 747405,
             "MD5": "429c693999fad17d6fe35f2aeea92b18",
@@ -131,9 +115,12 @@
           }
         },
         {
-          "id": "generated.neoforgemod:sodium_neoforge_0.6.13+mc1.21.1:1.0.0@jar",
-          "name": "sodium-neoforge-0.6.13+mc1.21.1",
+          "id": "mods_sodium-neoforge-0.6.13+mc1.21.1",
+          "name": "sodium-neoforge-0.6.13+mc1.21.1.jar",
           "type": "ForgeMod",
+          "required": {
+            "value": true
+          },
           "artifact": {
             "size": 1162994,
             "MD5": "e5018c782d851fea76be0205b7616e5d",
@@ -141,9 +128,12 @@
           }
         },
         {
-          "id": "generated.neoforgemod:waterframes_neoforge_mc1.21.1_v2.1.15:1.0.0@jar",
-          "name": "waterframes-NEOFORGE-mc1.21.1-v2.1.15",
+          "id": "mods_waterframes-NEOFORGE-mc1.21.1-v2.1.15",
+          "name": "waterframes-NEOFORGE-mc1.21.1-v2.1.15.jar",
           "type": "ForgeMod",
+          "required": {
+            "value": true
+          },
           "artifact": {
             "size": 245059,
             "MD5": "a583eae74a0b3ea802b4e7519d88129a",
@@ -151,9 +141,12 @@
           }
         },
         {
-          "id": "generated.neoforgemod:watermedia_2.1.25:1.0.0@jar",
-          "name": "watermedia-2.1.25",
+          "id": "mods_watermedia-2.1.25",
+          "name": "watermedia-2.1.25.jar",
           "type": "ForgeMod",
+          "required": {
+            "value": true
+          },
           "artifact": {
             "size": 37854313,
             "MD5": "b6a86c0336d0cebce6a3738ef26bb81c",
@@ -161,18 +154,55 @@
           }
         },
         {
-          "id": "generated.file:shaderpacks:1.0.0@zip",
-          "name": "shaderpacks Custom Pack",
+          "id": "shaderpacks_ComplementaryUnbound_r5.5.1",
+          "name": "ComplementaryUnbound_r5.5.1.zip",
           "type": "File",
+          "required": {
+            "value": false
+          },
           "artifact": {
-            "size": 0,
-            "MD5": "00000000000000000000000000000000",
-            "url": "https://github.com/Thinsh0/PotoCine/raw/main/shaderpacks_custom.zip",
-            "path": "shaderpacks/"
+            "size": 456332,
+            "MD5": "576ef06da170458879f3a03e685d487a",
+            "url": "https://github.com/Thinsh0/PotoCine/raw/main/shaderpacks/ComplementaryUnbound_r5.5.1.zip"
           }
+        },
+        {
+          "id": "neoforge_client",
+          "name": "Neoforge Client",
+          "type": "Library",
+          "required": {
+            "value": true
+          },
+          "subModules": [
+            {
+              "id": "neoforge-21.1.186",
+              "name": "Neoforge 21.1.186",
+              "type": "VersionManifest",
+              "required": {
+                "value": true
+              },
+              "artifact": {
+                "size": 918,
+                "MD5": "062960c7c223965c092a437fbd0b00b2",
+                "url": "versions/neoforge-21.1.186/neoforge-21.1.186.json"
+              }
+            },
+            {
+              "id": "1.21.1",
+              "name": "Minecraft 1.21.1",
+              "type": "VersionManifest",
+              "required": {
+                "value": true
+              },
+              "artifact": {
+                "size": 942,
+                "MD5": "daa7cef3ab99dd8c06907987839975de",
+                "url": "versions/1.21.1/1.21.1.json"
+              }
+            }
+          ]
         }
-      ],
-      "icon": "https://github.com/Thinsh0/PotoCine/raw/main/icon.png"
+      ]
     }
   ]
 }
