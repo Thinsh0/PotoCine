@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/PotoGames/Create/PotoCin%C3%A9/Modpack/Nebula/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "PotoCiné",
+    "description": "Le Cinéma PotoGames",
+    "icon": "https://github.com/Thinsh0/PotoCine/blob/main/icon.png",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "1391421434592493729",
+      "largeImageText": "potogames",
+      "largeImageKey": "cinema"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "neoforge": {
+    "version": "21.1.186"
+  },
+  "untrackedFiles": []
+}
