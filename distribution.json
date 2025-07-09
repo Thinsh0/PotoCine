@@ -20,8 +20,8 @@
         "largeImageText": "potogames",
         "largeImageKey": "cinema"
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.neoforged:neoforge:21.1.186:universal",
