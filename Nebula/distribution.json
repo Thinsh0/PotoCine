@@ -638,6 +638,16 @@
           }
         },
         {
+          "id": "generated.forgemod:plasmovoice:2.1.5@jar",
+          "name": "Plasmo Voice",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12164018,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoCin%C3%A9-1.21.1/forgemods/required/plasmovoice-neoforge-1.21-2.1.5.jar",
+            "MD5": "27e91e5271e08d0ebbd5f497585a427c"
+          }
+        },
+        {
           "id": "generated.forgemod:sodium:0.6.13+mc1.21.1@jar",
           "name": "Sodium",
           "type": "ForgeMod",
