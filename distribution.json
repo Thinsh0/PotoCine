@@ -13,7 +13,7 @@
       "description": "Le Cinéma PotoGames",
       "icon": "https://github.com/Thinsh0/PotoCine/blob/main/icon.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "91.197.6.89:25601",
       "minecraftVersion": "1.21.1",
       "discord": {
         "shortId": "1391421434592493729",
@@ -592,16 +592,6 @@
             "size": 1206816,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoCin%C3%A9-1.21.1/forgemods/required/CreativeCore_NEOFORGE_v2.13.7_mc1.21.1.jar",
             "MD5": "9824bb8cd69f94d5cd698cd998113eb7"
-          }
-        },
-        {
-          "id": "generated.forgemod:essential_1:3-8-4_neoforge_1-21-1@jar",
-          "name": "Essential_1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 53625713,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoCin%C3%A9-1.21.1/forgemods/required/Essential_1-3-8-4_neoforge_1-21-1.jar",
-            "MD5": "7704173d48743103b7067501150dc89f"
           }
         },
         {
