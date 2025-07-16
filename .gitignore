@@ -89,6 +89,3 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
-Nebula/servers/PotoRP-1.21.1/forgemods/required/morediscs-1.21.1-neoforge-35.jar
-servers/PotoRP-1.21.1/forgemods/required/morediscs-1.21.1-neoforge-35.jar
-Nebula/servers/PotoRP-1.21.1/forgemods/required/more_music_discs-1.2.0-neoforge-1.21.1.jar

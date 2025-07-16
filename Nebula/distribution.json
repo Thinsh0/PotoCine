@@ -3436,6 +3436,17 @@
             "MD5": "458e4f3f673e3fea22fb92bf76fcf912",
             "path": "config/fancymenu/user_variables.db"
           }
+        },
+        {
+          "id": "connector-2.0.0-beta.8+1.21.1-full.jar",
+          "name": "connector-2.0.0-beta.8+1.21.1-full.jar",
+          "type": "File",
+          "artifact": {
+            "size": 4496468,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/files/overrides/mods/connector-2.0.0-beta.8+1.21.1-full.jar",
+            "MD5": "a23012ea45fdb670b95d72f060eb123d",
+            "path": "overrides/mods/connector-2.0.0-beta.8+1.21.1-full.jar"
+          }
         }
       ]
     }

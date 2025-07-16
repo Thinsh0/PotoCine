@@ -1,16 +1,15 @@
 {
   "version": "1.0.0",
-  "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "1395050154909765797",
+    "smallImageText": "logo",
+    "smallImageKey": "logo"
   },
   "servers": [
     {
       "id": "PotoRP-1.21.1",
       "name": "PotoRP",
-      "description": "",
+      "description": "PotoRP Running Minecraft 1.21.1 (NeoForge v21.1.186)",
       "icon": "https://github.com/Thinsh0/PotoCine/blob/main/icon.png",
       "version": "0.5.0",
       "address": "91.197.6.21:25601",
@@ -955,7 +954,7 @@
           }
         },
         {
-          "id": "org.sinytra:connector:2.0.0-beta.8+1.21.1-full@jar",
+          "id": "generated.forgemod:connector:2.0.0-beta.8+1.21.1-full@jar",
           "name": "Connector",
           "type": "ForgeMod",
           "artifact": {
@@ -3415,6 +3414,17 @@
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/files/config/fancymenu/user_variables.db",
             "MD5": "458e4f3f673e3fea22fb92bf76fcf912",
             "path": "config/fancymenu/user_variables.db"
+          }
+        },
+        {
+          "id": "connector-2.0.0-beta.8+1.21.1-full.jar",
+          "name": "connector-2.0.0-beta.8+1.21.1-full.jar",
+          "type": "File",
+          "artifact": {
+            "size": 4496468,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/files/overrides/mods/connector-2.0.0-beta.8+1.21.1-full.jar",
+            "MD5": "a23012ea45fdb670b95d72f060eb123d",
+            "path": "overrides/mods/connector-2.0.0-beta.8+1.21.1-full.jar"
           }
         }
       ]
