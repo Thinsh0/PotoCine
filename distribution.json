@@ -1143,10 +1143,6 @@
             "MD5": "39db2efac7c0482c2c1bfdbaaab317b3"
           }
         },
-	{
-  	 "uid": "connector",
-  	 "type": "SideMod"
-	},
         {
           "id": "generated.forgemod:create_central_kitchen:2.1.3@jar",
           "name": "Create: Central Kitchen",
