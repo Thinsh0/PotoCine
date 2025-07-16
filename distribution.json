@@ -955,7 +955,7 @@
           }
         },
         {
-          "id": "generated.forgemod:connector:2.0.0-beta.8+1.21.1-full@jar",
+          "id": "org.sinytra:connector:2.0.0-beta.8+1.21.1-full@jar",
           "name": "Connector",
           "type": "ForgeMod",
           "artifact": {
