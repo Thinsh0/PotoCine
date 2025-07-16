@@ -2365,16 +2365,6 @@
           }
         },
         {
-          "id": "generated.forgemod:more_music_disc:1.0.0@jar",
-          "name": "More_music_disc",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 211995240,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/more_music_discs-1.2.0-neoforge-1.21.1.jar",
-            "MD5": "8ef32c7cec1c348a53c62ab33b3cee05"
-          }
-        },
-        {
           "id": "generated.forgemod:mctb:7.0.2@jar",
           "name": "More Crafting Tables",
           "type": "ForgeMod",
@@ -2392,16 +2382,6 @@
             "size": 257054,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/MoreChestVariants-1.5.9+1.21.1-Neo.jar",
             "MD5": "638e3f6d48cf6bfce37e297ac46a3d19"
-          }
-        },
-        {
-          "id": "generated.forgemod:morediscs:35@jar",
-          "name": "More Music Discs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 151061342,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/morediscs-1.21.1-neoforge-35.jar",
-            "MD5": "00e620fc383f3e6a0bb899ad3d56b490"
           }
         },
         {
