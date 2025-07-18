@@ -1,9 +1,10 @@
 {
   "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "1395050154909765797",
-    "smallImageText": "logo",
-    "smallImageKey": "logo"
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
   "servers": [
     {
@@ -953,16 +954,6 @@
             "MD5": "317e807851528132aa6b24392e911266"
           }
         },
-        {
-  	"id": "connector",
-  	"name": "Connector",
-  	"type": "SideMod",
-  	"artifact": {
-    	"size": 4496468,
-    	"url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/connector-2.0.0-beta.8+1.21.1-full.jar",
-    	"MD5": "a23012ea45fdb670b95d72f060eb123d"
-  	  }
-	},
         {
           "id": "generated.forgemod:continuity:3.0.0+1.21.neoforge@jar",
           "name": "Continuity",
@@ -3422,9 +3413,9 @@
           "type": "File",
           "artifact": {
             "size": 4496468,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/files/overrides/mods/connector-2.0.0-beta.8+1.21.1-full.jar",
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/files/mods/connector-2.0.0-beta.8+1.21.1-full.jar",
             "MD5": "a23012ea45fdb670b95d72f060eb123d",
-            "path": "overrides/mods/connector-2.0.0-beta.8+1.21.1-full.jar"
+            "path": "mods/connector-2.0.0-beta.8+1.21.1-full.jar"
           }
         }
       ]
