@@ -1710,16 +1710,6 @@
           }
         },
         {
-          "id": "generated.forgemod:fallingtrees:0.13.2@jar",
-          "name": "Panda's Falling Tree's",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4025310,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/fallingtrees-neoforge-mc1.21-0.13.2-SNAPSHOT.jar",
-            "MD5": "69f5b91091e8c79c77eb3bad2e373db9"
-          }
-        },
-        {
           "id": "generated.forgemod:fbp:21.1.4.1@jar",
           "name": "FancyBlockParticles",
           "type": "ForgeMod",
@@ -2645,16 +2635,6 @@
             "size": 4800048,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/owo-lib-neoforge-0.12.15.1-beta.3+1.21.jar",
             "MD5": "d688d9e4fdbab4a978f76fb31259f341"
-          }
-        },
-        {
-          "id": "generated.forgemod:pandalib:0.5.2@jar",
-          "name": "PandaLib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 862336,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/pandalib-neoforge-mc1.21-0.5.2-SNAPSHOT.jar",
-            "MD5": "c88354999f5648ebc5a723c049cfc2e6"
           }
         },
         {
