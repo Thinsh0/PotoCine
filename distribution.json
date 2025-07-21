@@ -2456,13 +2456,13 @@
           }
         },
         {
-          "id": "generated.forgemod:moonlight:1.21-2.20.0@jar",
+          "id": "generated.forgemod:moonlight:1.21-2.19.5@jar",
           "name": "Moonlight Lib",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1160706,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/moonlight-1.21-2.20.0-neoforge.jar",
-            "MD5": "79953effcfc41416a001bee1a953f569"
+            "size": 1157151,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/moonlight-1.21-2.19.5-neoforge.jar",
+            "MD5": "af7952819735d6f68c83bb0d84473439"
           }
         },
         {
@@ -2628,13 +2628,13 @@
           }
         },
         {
-          "id": "generated.forgemod:owo:0.12.15.5-beta.1+1.21@jar",
+          "id": "generated.forgemod:owo:0.12.15.1-beta.3+1.21@jar",
           "name": "Oωo",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1221583,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
-            "MD5": "4c8323c3d0493f7e82a2287e5ca9df7f"
+            "size": 4800048,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/owo-lib-neoforge-0.12.15.1-beta.3+1.21.jar",
+            "MD5": "d688d9e4fdbab4a978f76fb31259f341"
           }
         },
         {
@@ -2761,6 +2761,16 @@
             "size": 341009,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/resourcefulconfig-neoforge-1.21-3.0.11.jar",
             "MD5": "84ff2805a591b10d22b7e0c69b44246c"
+          }
+        },
+        {
+          "id": "generated.forgemod:resourcefullib:3.0.11@jar",
+          "name": "Resourceful Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 483221,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/resourcefullib-neoforge-1.21-3.0.11.jar",
+            "MD5": "c98d98a51b314e7f002fe656219865f2"
           }
         },
         {
@@ -2952,16 +2962,6 @@
             "size": 207514,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
             "MD5": "0428149c5db7bad43d75e6f758f47678"
-          }
-        },
-        {
-          "id": "generated.forgemod:supermartijn642corelib:1.1.18+a@jar",
-          "name": "SuperMartijn642's Core Lib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 518643,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar",
-            "MD5": "0a0ca1da3d05300da692e8567d9bbbb4"
           }
         },
         {
