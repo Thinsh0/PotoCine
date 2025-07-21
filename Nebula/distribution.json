@@ -1888,6 +1888,16 @@
           }
         },
         {
+          "id": "generated.forgemod:fusion:1.2.8@jar",
+          "name": "Fusion",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 529801,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/fusion-1.2.8-neoforge-mc1.21.jar",
+            "MD5": "2c1a660bc25235a5cfa79d90678e9e70"
+          }
+        },
+        {
           "id": "generated.forgemod:fzzy_config:0.7.0+1.21+neoforge@jar",
           "name": "Fzzy Config",
           "type": "ForgeMod",
@@ -1938,6 +1948,16 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:iceberg:1.3.2@jar",
+          "name": "Iceberg",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 213853,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/Iceberg-1.21.1-neoforge-1.3.2.jar",
+            "MD5": "68473a4ca9a827669c13d3855c8dc0e2"
           }
         },
         {
@@ -2151,6 +2171,16 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:konkrete:1.9.9@jar",
+          "name": "Konkrete",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 618842,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/konkrete_neoforge_1.9.9_MC_1.21.jar",
+            "MD5": "6e77d08299ea1ec7756a299263bc469b"
           }
         },
         {
@@ -2383,6 +2413,16 @@
           }
         },
         {
+          "id": "generated.forgemod:melody:1.0.10@jar",
+          "name": "Melody",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 36096,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/melody_neoforge_1.0.10_MC_1.21.jar",
+            "MD5": "875f4a68f2cd7ee2cc135904653c93d4"
+          }
+        },
+        {
           "id": "generated.forgemod:missingwilds:1.4.0+beta+1.21.1@jar",
           "name": "MissingWilds",
           "type": "ForgeMod",
@@ -2436,16 +2476,6 @@
           }
         },
         {
-          "id": "generated.forgemod:more_music_disc:1.0.0@jar",
-          "name": "More_music_disc",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 211995240,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/more_music_discs-1.2.0-neoforge-1.21.1.jar",
-            "MD5": "8ef32c7cec1c348a53c62ab33b3cee05"
-          }
-        },
-        {
           "id": "generated.forgemod:mctb:7.0.2@jar",
           "name": "More Crafting Tables",
           "type": "ForgeMod",
@@ -2463,16 +2493,6 @@
             "size": 257054,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/MoreChestVariants-1.5.9+1.21.1-Neo.jar",
             "MD5": "638e3f6d48cf6bfce37e297ac46a3d19"
-          }
-        },
-        {
-          "id": "generated.forgemod:morediscs:35@jar",
-          "name": "More Music Discs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 151061342,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/morediscs-1.21.1-neoforge-35.jar",
-            "MD5": "00e620fc383f3e6a0bb899ad3d56b490"
           }
         },
         {
@@ -2675,6 +2695,16 @@
             "size": 394248,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/platform-neoforge-1.21.1-1.2.10.2.jar",
             "MD5": "92995c4948b2af48f73d0995c5155d2b"
+          }
+        },
+        {
+          "id": "generated.forgemod:prism:1.0.11@jar",
+          "name": "Prism",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 62031,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/Prism-1.21.1-neoforge-1.0.11.jar",
+            "MD5": "e3dfc8c32ab7d29a271926c5bc88c8e9"
           }
         },
         {
@@ -2965,6 +2995,26 @@
           }
         },
         {
+          "id": "generated.forgemod:supermartijn642configlib:1.1.8@jar",
+          "name": "SuperMartijn642's Config Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 207514,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+            "MD5": "0428149c5db7bad43d75e6f758f47678"
+          }
+        },
+        {
+          "id": "generated.forgemod:supermartijn642corelib:1.1.18+a@jar",
+          "name": "SuperMartijn642's Core Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 518643,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar",
+            "MD5": "0a0ca1da3d05300da692e8567d9bbbb4"
+          }
+        },
+        {
           "id": "generated.forgemod:supplementaries:1.21-3.3.3-neoforge@jar",
           "name": "Supplementaries",
           "type": "ForgeMod",
@@ -3012,6 +3062,16 @@
             "size": 6128519,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/trafficcraft-neoforge-1.21.1-1.1.3.jar",
             "MD5": "92f61837029df45ada5e4a6de2beaf44"
+          }
+        },
+        {
+          "id": "generated.forgemod:txnilib:1.0.24@jar",
+          "name": "TxniLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6276522,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/txnilib-neoforge-1.0.24-1.21.1.jar",
+            "MD5": "69cd87744e40cc444b4176022ec6d17a"
           }
         },
         {
