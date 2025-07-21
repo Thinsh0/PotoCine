@@ -954,16 +954,6 @@
           }
         },
         {
-          "id": "generated.forgemod:chipped:4.0.2@jar",
-          "name": "Chipped",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 15020578,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/chipped-neoforge-1.21.1-4.0.2.jar",
-            "MD5": "f8fd65f72a903abd0bcbd3bf6bc09524"
-          }
-        },
-        {
           "id": "generated.forgemod:chunksfadein:2.0.3-1.21@jar",
           "name": "Chunks Fade In",
           "type": "ForgeMod",
@@ -2761,36 +2751,6 @@
           },
           "required": {
             "value": false
-          }
-        },
-        {
-          "id": "generated.forgemod:rechiseled_chipped:1.2@jar",
-          "name": "Rechiseled: Chipped",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 165584,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/rechiseled_chipped-1.2.jar",
-            "MD5": "ad1e64e221f64bace1c7ceb91c8f57b9"
-          }
-        },
-        {
-          "id": "generated.forgemod:rechiseled:1.1.6+a@jar",
-          "name": "Rechiseled",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3484553,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/rechiseled-1.1.6a-neoforge-mc1.21.jar",
-            "MD5": "c27772e602930ff3609c91f583d09815"
-          }
-        },
-        {
-          "id": "generated.forgemod:rechiseledcreate:1.0.2+a@jar",
-          "name": "Rechiseled: Create",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 658173,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/rechiseledcreate-1.0.2a-neoforge-mc1.21.jar",
-            "MD5": "0a729d843ae21734d1ee8b362de33ce2"
           }
         },
         {
