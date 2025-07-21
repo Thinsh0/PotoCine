@@ -2965,6 +2965,16 @@
           }
         },
         {
+          "id": "generated.forgemod:supermartijn642corelib:1.1.18+a@jar",
+          "name": "SuperMartijn642's Core Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 518643,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar",
+            "MD5": "0a0ca1da3d05300da692e8567d9bbbb4"
+          }
+        },
+        {
           "id": "generated.forgemod:supplementaries:1.21-3.3.3-neoforge@jar",
           "name": "Supplementaries",
           "type": "ForgeMod",
