@@ -2764,16 +2764,6 @@
           }
         },
         {
-          "id": "generated.forgemod:resourcefullib:3.0.11@jar",
-          "name": "Resourceful Lib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 483221,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/resourcefullib-neoforge-1.21-3.0.11.jar",
-            "MD5": "c98d98a51b314e7f002fe656219865f2"
-          }
-        },
-        {
           "id": "generated.forgemod:resourcefullib:3.0.12@jar",
           "name": "Resourceful Lib",
           "type": "ForgeMod",
