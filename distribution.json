@@ -625,6 +625,16 @@
           }
         },
         {
+          "id": "com.github.alexthe666:alexsmobs:1.21.1@jar",
+          "name": "Alexsmobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25655463,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/alexsmobs-1.21.1.jar",
+            "MD5": "0ba48ab00c965c7acaa061d0844d9f17"
+          }
+        },
+        {
           "id": "generated.forgemod:ambiance:1.1.0@jar",
           "name": "Ambiance",
           "type": "ForgeMod",
@@ -2207,6 +2217,16 @@
           }
         },
         {
+          "id": "generated.forgemod:lespiecesderaptor:1.0.0@jar",
+          "name": "LesPiecesDeRaptor",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 17539,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/lespiecesderaptor-1.0.2-neoforge-1.21.1.jar",
+            "MD5": "9da58cac2332af934a7522e74c7994e9"
+          }
+        },
+        {
           "id": "generated.forgemod:libraryferret:4.0.0@jar",
           "name": "Library ferret",
           "type": "ForgeMod",
@@ -2685,6 +2705,16 @@
             "size": 394248,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/platform-neoforge-1.21.1-1.2.10.2.jar",
             "MD5": "92995c4948b2af48f73d0995c5155d2b"
+          }
+        },
+        {
+          "id": "generated.forgemod:playersafelogin:1.0.1@jar",
+          "name": "Player Safe Login",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 66136,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/playersafelogin-1.0.1.jar",
+            "MD5": "061464a5625fec417b7db38c02a01953"
           }
         },
         {
