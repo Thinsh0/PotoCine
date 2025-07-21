@@ -1,9 +1,9 @@
 {
   "$schema": "file:///D:/PotoGames/Create/PotoCin%C3%A9/Modpack/Nebula/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "0.5.0",
+    "version": "1.0.0",
     "name": "PotoRP",
-    "description": "PotoRP Running Minecraft 1.21.1 (NeoForge v21.1.186)",
+    "description": "",
     "icon": "https://github.com/Thinsh0/PotoCine/blob/main/icon.png",
     "address": "91.197.6.21:25601",
     "discord": {
