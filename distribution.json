@@ -625,6 +625,16 @@
           }
         },
         {
+          "id": "com.github.alexthe666:alexsmobs:1.21.1@jar",
+          "name": "Alexsmobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25655463,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/alexsmobs-1.21.1.jar",
+            "MD5": "0ba48ab00c965c7acaa061d0844d9f17"
+          }
+        },
+        {
           "id": "generated.forgemod:ambiance:1.1.0@jar",
           "name": "Ambiance",
           "type": "ForgeMod",
@@ -709,11 +719,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 123862,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/optionalon/BadOptimizations-2.3.0-1.21.1.jar",
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/BadOptimizations-2.3.0-1.21.1.jar",
             "MD5": "48bd326cec66b6b286ee435d1cd4242e"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1100,16 +1107,6 @@
             "size": 358245,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/create_cheese_factory-1.2.0-neoforge-1.21.1.jar",
             "MD5": "9c2dfaa7148e7bce803b08838b84fc60"
-          }
-        },
-        {
-          "id": "generated.forgemod:create_chocolate_fountain:1.21.1-1.0.0@jar",
-          "name": "Create Chocolate Fountain",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 47696,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/create_chocolate_fountain-1.21.1-1.0.0.jar",
-            "MD5": "61d718508baf1d57df017ac3e0599572"
           }
         },
         {
@@ -1710,6 +1707,16 @@
           }
         },
         {
+          "id": "generated.forgemod:fallingtrees:0.13.2@jar",
+          "name": "Panda's Falling Tree's",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4025310,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/fallingtrees-neoforge-mc1.21-0.13.2-SNAPSHOT.jar",
+            "MD5": "69f5b91091e8c79c77eb3bad2e373db9"
+          }
+        },
+        {
           "id": "generated.forgemod:fbp:21.1.4.1@jar",
           "name": "FancyBlockParticles",
           "type": "ForgeMod",
@@ -1923,11 +1930,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 36437,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/optionalon/handoveryouritems-1.21.1-3.6.jar",
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/handoveryouritems-1.21.1-3.6.jar",
             "MD5": "01f8d069f5cc4034067236c7481836bb"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -2385,11 +2389,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1851843,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/optionalon/mdm-25.6.1-neoforge-1.21.1.jar",
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/mdm-25.6.1-neoforge-1.21.1.jar",
             "MD5": "ae3b057e1b3d05fc86d58c81ec8efac6"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -2524,11 +2525,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 243934,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/optionalon/mru-1.0.17+1.21.1+neoforge.jar",
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/mru-1.0.17+1.21.1+neoforge.jar",
             "MD5": "eacefa149a78fbb788a66bfd11c86105"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -2638,6 +2636,16 @@
           }
         },
         {
+          "id": "generated.forgemod:pandalib:0.5.2@jar",
+          "name": "PandaLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 862336,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/pandalib-neoforge-mc1.21-0.5.2-SNAPSHOT.jar",
+            "MD5": "c88354999f5648ebc5a723c049cfc2e6"
+          }
+        },
+        {
           "id": "generated.forgemod:pipeorgans:0.6.4+1.21.1@jar",
           "name": "Create: Sound of Steam",
           "type": "ForgeMod",
@@ -2705,19 +2713,6 @@
             "size": 1076281,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/PuzzlesLib-v21.1.36-1.21.1-NeoForge.jar",
             "MD5": "6bea7d7cd84691a4e0aebfada2642755"
-          }
-        },
-        {
-          "id": "su.plo.voice.groups.server:pv_addon_groups:1.1.0@jar",
-          "name": "Pv-addon-groups",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 161428,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/optionalon/pv-addon-groups-1.1.0.jar",
-            "MD5": "c89c03ae37cf860d908900357759b6ba"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -3100,11 +3095,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 432269,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/optionalon/watut-neoforge-1.21.0-1.2.7.jar",
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/watut-neoforge-1.21.0-1.2.7.jar",
             "MD5": "31cfc24b7997dbf6ed84cd844de37d7d"
-          },
-          "required": {
-            "value": false
           }
         },
         {
