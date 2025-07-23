@@ -1409,13 +1409,13 @@
           }
         },
         {
-          "id": "generated.forgemod:distanthorizons:2.3.2-b@jar",
+          "id": "generated.forgemod:distanthorizons:2.3.4-b@jar",
           "name": "Distant Horizons",
           "type": "ForgeMod",
           "artifact": {
-            "size": 17943813,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/optionalon/DistantHorizons-neoforge-fabric-2.3.2-b-1.21.1.jar",
-            "MD5": "697441dcb42cff61f8bda975d8061e1b"
+            "size": 18039639,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/optionalon/DistantHorizons-2.3.4-b-1.21.1-fabric-neoforge.jar",
+            "MD5": "bda2e9162806056880aabf90ddbd5e81"
           },
           "required": {
             "value": false
@@ -1723,13 +1723,13 @@
           }
         },
         {
-          "id": "generated.forgemod:fancymenu:3.6.2@jar",
+          "id": "generated.forgemod:fancymenu:3.6.4@jar",
           "name": "FancyMenu",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3377905,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/optionalon/fancymenu_neoforge_3.6.2_MC_1.21.1.jar",
-            "MD5": "fc04a6e65774f2bfa6830a58b9d52bf7"
+            "size": 3377908,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/optionalon/fancymenu_neoforge_3.6.4_MC_1.21.1.jar",
+            "MD5": "0cd4445ec335235806c32d173372cff6"
           },
           "required": {
             "value": false
