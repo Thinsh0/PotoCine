@@ -1,7 +1,7 @@
 {
   "$schema": "file:///D:/PotoGames/Create/PotoCin%C3%A9/Modpack/Nebula/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "name": "PotoRP",
     "description": "",
     "icon": "https://github.com/Thinsh0/PotoCine/blob/main/icon.png",
