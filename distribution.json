@@ -3161,16 +3161,6 @@
           }
         },
         {
-          "id": "generated.forgemod:skippy:pearls-1.21@jar",
-          "name": "Skippy",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5783,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/skippy-pearls-1.21.jar",
-            "MD5": "adb06f17e89818ec0df2d5e548ff7df6"
-          }
-        },
-        {
           "id": "generated.forgemod:sliceanddice:4.0.1@jar",
           "name": "Create Slice & Dice",
           "type": "ForgeMod",
