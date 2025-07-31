@@ -773,16 +773,6 @@
           }
         },
         {
-          "id": "generated.forgemod:balm:21.0.46@jar",
-          "name": "Balm",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 584593,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/balm-neoforge-1.21.1-21.0.46.jar",
-            "MD5": "92e628426c2aa33554e580b06312aba9"
-          }
-        },
-        {
           "id": "generated.forgemod:balm:21.0.48@jar",
           "name": "Balm",
           "type": "ForgeMod",
@@ -3059,16 +3049,6 @@
             "size": 341009,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/resourcefulconfig-neoforge-1.21-3.0.11.jar",
             "MD5": "84ff2805a591b10d22b7e0c69b44246c"
-          }
-        },
-        {
-          "id": "generated.forgemod:resourcefullib:3.0.11@jar",
-          "name": "Resourceful Lib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 483221,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/resourcefullib-neoforge-1.21-3.0.11.jar",
-            "MD5": "c98d98a51b314e7f002fe656219865f2"
           }
         },
         {
