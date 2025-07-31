@@ -12,7 +12,7 @@
       "name": "PotoRP",
       "description": "",
       "icon": "https://github.com/Thinsh0/PotoCine/blob/main/icon.png",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "address": "91.197.6.21:25601",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -615,6 +615,19 @@
           }
         },
         {
+          "id": "generated.forgemod:advancementplaques:1.6.8@jar",
+          "name": "Advancement Plaques",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 195730,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/optionalon/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
+            "MD5": "ad6dc60871b30f6d69f25c0ec7d79871"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "generated.forgemod:mr_afk_sit:1.0.1@jar",
           "name": "AFK Sit",
           "type": "ForgeMod",
@@ -622,6 +635,16 @@
             "size": 81092,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/afk-sit-1.0.1.jar",
             "MD5": "a788cd4618dd0678dda497401e7de01f"
+          }
+        },
+        {
+          "id": "com.github.alexthe666:alexsmobs:1.21.1@jar",
+          "name": "Alexsmobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25655463,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/alexsmobs-1.21.1.jar",
+            "MD5": "0ba48ab00c965c7acaa061d0844d9f17"
           }
         },
         {
@@ -694,6 +717,42 @@
           }
         },
         {
+          "id": "generated.forgemod:armorstatues:21.1.0@jar",
+          "name": "Armor Statues",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 263404,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/optionalon/ArmorStatues-v21.1.0-1.21.1-NeoForge.jar",
+            "MD5": "027f4971919a672e34448e2d3c8f8934"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:armourers_workshop:3.2.3-beta@jar",
+          "name": "Armourer's Workshop",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5868082,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/armourersworkshop-forge-1.21.1-3.2.3-beta.jar",
+            "MD5": "a74c74a4d749448da055466710aca47e"
+          }
+        },
+        {
+          "id": "generated.forgemod:atg:2.0.3@jar",
+          "name": "Attack Through Grass",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 18101,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/optionalon/atg-2.0.3+1.21.3.jar",
+            "MD5": "ee23556d8b2454181144487766d31dfa"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "generated.forgemod:athena:4.0.2@jar",
           "name": "Athena",
           "type": "ForgeMod",
@@ -734,6 +793,16 @@
           }
         },
         {
+          "id": "generated.forgemod:balm:21.0.48@jar",
+          "name": "Balm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 586511,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/balm-neoforge-1.21.1-21.0.48.jar",
+            "MD5": "2a3ea5a8043ddb327afef36d1b6a53f1"
+          }
+        },
+        {
           "id": "generated.forgemod:bedrockoid:0.1.3@jar",
           "name": "Bedrockoid",
           "type": "ForgeMod",
@@ -771,6 +840,16 @@
             "size": 123893,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/bestylewither-neoforge-mc1.21.1-1.8.0.jar",
             "MD5": "9cc3f7bc8a4c69c5e6dfef6d6a354cc9"
+          }
+        },
+        {
+          "id": "generated.forgemod:better_climbing:4@jar",
+          "name": "Better Climbing",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7127,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/better_climbing-neoforge-4.jar",
+            "MD5": "f05a9fb48d3d56cfa5b3aea5e3aaa92d"
           }
         },
         {
@@ -869,6 +948,16 @@
           }
         },
         {
+          "id": "generated.forgemod:blueprint:8.0.5@jar",
+          "name": "Blueprint",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1096842,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/blueprint-1.21.1-8.0.5.jar",
+            "MD5": "af57bcc5123a69a0949586ce981fc954"
+          }
+        },
+        {
           "id": "generated.forgemod:boatiview:0.0.6@jar",
           "name": "Boat Item View",
           "type": "ForgeMod",
@@ -882,6 +971,16 @@
           }
         },
         {
+          "id": "generated.forgemod:bookshelf:21.1.67@jar",
+          "name": "Bookshelf",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 332655,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/bookshelf-neoforge-1.21.1-21.1.67.jar",
+            "MD5": "c857bdefcaac1fc60ff49f10f6054fef"
+          }
+        },
+        {
           "id": "com.natamus:bottleyourxp:3.5@jar",
           "name": "Bottle Your Xp",
           "type": "ForgeMod",
@@ -889,6 +988,29 @@
             "size": 39410,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/bottleyourxp-1.21.1-3.5.jar",
             "MD5": "981a5ca3853e59523c134852899219b1"
+          }
+        },
+        {
+          "id": "generated.forgemod:bridgingmod:2.6.2+1.21.1@jar",
+          "name": "Bridging Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5924051,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/optionalon/BridgingMod-2.6.2+1.21.1.neoforge-release.jar",
+            "MD5": "4f7080d4fb9bb6ee3e8b67563eacac61"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:butcher:3.5.6@jar",
+          "name": "Butcher",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 33507535,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/butcher-3.5.6-neoforge-1.21.1.jar",
+            "MD5": "e682f472d222deafff0f67e4d38f31fe"
           }
         },
         {
@@ -964,6 +1086,29 @@
           }
         },
         {
+          "id": "generated.forgemod:clayworks:4.0.0@jar",
+          "name": "Clayworks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1419736,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/clayworks-1.21.1-4.0.0.jar",
+            "MD5": "43d48a8f6859bf21084181b07047729c"
+          }
+        },
+        {
+          "id": "generated.forgemod:clienttweaks:21.1.8@jar",
+          "name": "Client Tweaks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 141776,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/optionalon/clienttweaks-neoforge-1.21.1-21.1.8.jar",
+            "MD5": "5431f3c275e82e82b38b66117b7a6490"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "generated.forgemod:cloth_config:15.0.140@jar",
           "name": "Cloth Config v15 API",
           "type": "ForgeMod",
@@ -1014,6 +1159,19 @@
             "size": 77555,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/optionalon/Controlling-neoforge-1.21.1-19.0.5.jar",
             "MD5": "7141c2d0bb774dc6e4481be32b685179"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:coolrain:1.1.0@jar",
+          "name": "Cool Rain",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3127528,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/optionalon/coolrain-1.1.0-1.21.1-neoforge.jar",
+            "MD5": "71621e8d8074833f3105ccbed1463f16"
           },
           "required": {
             "value": false
@@ -1077,6 +1235,16 @@
             "size": 625529,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/create_aquatic_ambitions-1.21.1-2.0.0-b.jar",
             "MD5": "5ebac90fde16681c3da2fe5f7100912e"
+          }
+        },
+        {
+          "id": "generated.forgemod:create_bic_bit:1.0.1@jar",
+          "name": "Create: Bitterballen",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 397408,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/create_bic_bit-1.0.1.jar",
+            "MD5": "bb80ecb8d8542b4969c5035952c3073c"
           }
         },
         {
@@ -1147,6 +1315,16 @@
             "size": 505421,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/create_trimmed.jar",
             "MD5": "1c7efc8f048f14e6fb0bb0ca0e01ac7c"
+          }
+        },
+        {
+          "id": "generated.forgemod:create_ultimate_factory:2.1.1@jar",
+          "name": "Create: Ultimate Factory",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 229754,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/create_ultimate_factory-2.1.1-neoforge-1.21.1.jar",
+            "MD5": "f3e8f75cffe771b862a249832c1b5762"
           }
         },
         {
@@ -1409,6 +1587,16 @@
           }
         },
         {
+          "id": "generated.forgemod:distractingtrims:21.1.1@jar",
+          "name": "DistractingTrims",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 16730,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/distractingtrims-neoforge-1.21.1-21.1.1.jar",
+            "MD5": "fe29442deedb3209c2681d58c12fa523"
+          }
+        },
+        {
           "id": "generated.forgemod:door_knocking:1.0.1+1.21@jar",
           "name": "Door Knocking",
           "type": "ForgeMod",
@@ -1468,6 +1656,19 @@
           }
         },
         {
+          "id": "net.tschipcraft:dynamiclights:1.8.8+mod@jar",
+          "name": "Dynamic Lights",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 387741,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/optionalon/dynamiclights-v1.8.8-mc1.17-1.21.7-mod.jar",
+            "MD5": "4110c96d7b8a97ee8007a9dad592d813"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "generated.forgemod:dynamictrees:1.5.0-BETA07@jar",
           "name": "Dynamic Trees",
           "type": "ForgeMod",
@@ -1495,6 +1696,19 @@
             "size": 41900,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/easyelytratakeoff-1.21.1-4.5.jar",
             "MD5": "a3a9597d582caac115ecdbf962170054"
+          }
+        },
+        {
+          "id": "generated.forgemod:eg_particle_interactions:0.4.1@jar",
+          "name": "Particle Interactions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 322743,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/optionalon/eg_particle_interactions-0.4.1-neoforge-mc1.21.1.jar",
+            "MD5": "9ceb55b527a570332af9a09c25fd46eb"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1961,6 +2175,26 @@
           }
         },
         {
+          "id": "generated.forgemod:immersive_melodies:0.6.2+1.21.1@jar",
+          "name": "Immersive Melodies",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5520152,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/immersive_melodies-neoforge-0.6.2+1.21.1.jar",
+            "MD5": "ae6e5863639f5119c0127028f42ef655"
+          }
+        },
+        {
+          "id": "generated.forgemod:immersive_portals_core:6.0.7@jar",
+          "name": "Immersive Portals",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1864746,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/immersive_portals-6.0.7-all.jar",
+            "MD5": "d9cd9b91b9eb9508dc361316778c5d98"
+          }
+        },
+        {
           "id": "generated.forgemod:immersivedamageindicators:1.0.0@jar",
           "name": "Immersive Damage Indicators",
           "type": "ForgeMod",
@@ -2027,6 +2261,16 @@
           }
         },
         {
+          "id": "generated.forgemod:item_obliterator:2.3.0@jar",
+          "name": "Item Obliterator",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 24037,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar",
+            "MD5": "f47cadc2258d5c7a7e91ddf521e13713"
+          }
+        },
+        {
           "id": "generated.forgemod:itemphysiclite:1.6.8@jar",
           "name": "ItemPhysicLite",
           "type": "ForgeMod",
@@ -2047,6 +2291,16 @@
             "size": 561790,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/ItemsDisplayed-NeoForge-2.0.6.jar",
             "MD5": "fe6430a67fb99a05b78cc6db1a5619c6"
+          }
+        },
+        {
+          "id": "generated.forgemod:jamlib:1.3.5+1.21.1@jar",
+          "name": "JamLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 188341,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/jamlib-neoforge-1.3.5+1.21.1.jar",
+            "MD5": "8b5d57e55a1dda4492686a36b6e8292e"
           }
         },
         {
@@ -2138,6 +2392,16 @@
           }
         },
         {
+          "id": "generated.forgemod:kiwi:15.6.1+neoforge@jar",
+          "name": "Kiwi Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1504519,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/Kiwi-1.21.1-NeoForge-15.6.1.jar",
+            "MD5": "17bb64d5f2576987d0b2bd4999d275d8"
+          }
+        },
+        {
           "id": "generated.forgemod:konkrete:1.9.9@jar",
           "name": "Konkrete",
           "type": "ForgeMod",
@@ -2208,6 +2472,16 @@
             "size": 560194,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/lootr-neoforge-1.21-1.10.35.91.jar",
             "MD5": "75a486c691b1a56064f1624ac4b20f80"
+          }
+        },
+        {
+          "id": "generated.forgemod:mr_ly_veinminerenchantment:1-v1.0.1@jar",
+          "name": "Veinminer Enchantment",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 73647,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/ly-veinminer-enchantment-v1.0.1.jar",
+            "MD5": "e9bbd83979398d77a5d3ea00d83a5729"
           }
         },
         {
@@ -2394,6 +2668,19 @@
           }
         },
         {
+          "id": "generated.forgemod:mindfuldarkness:21.1.0@jar",
+          "name": "Mindful Darkness",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 98913,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/optionalon/MindfulDarkness-v21.1.0-1.21.1-NeoForge.jar",
+            "MD5": "c80102d7306cead653844f38bd1a44a9"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "generated.forgemod:missingwilds:1.4.0+beta+1.21.1@jar",
           "name": "MissingWilds",
           "type": "ForgeMod",
@@ -2477,6 +2764,19 @@
           }
         },
         {
+          "id": "generated.forgemod:moreoverlays:1.23.2-neoforge@jar",
+          "name": "More Overlays Updated",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 96191,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/optionalon/moreoverlays-1.23.2-mc1.21-neoforge.jar",
+            "MD5": "0265251ca15f747e466818d1fc81c96d"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "generated.forgemod:morevillagers:5.1.2@jar",
           "name": "MoreVillagers",
           "type": "ForgeMod",
@@ -2520,6 +2820,16 @@
           }
         },
         {
+          "id": "generated.forgemod:necronomicon:1.6.0@jar",
+          "name": "Necronomicon",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 29865,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/Necronomicon-NeoForge-1.6.0+1.21.jar",
+            "MD5": "6250002ee6b5583f7db70564ecdd9fbe"
+          }
+        },
+        {
           "id": "generated.forgemod:netherite_ext:1.4@jar",
           "name": "Netherite Extension",
           "type": "ForgeMod",
@@ -2537,6 +2847,16 @@
             "size": 147697,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/netherite_horse_armor-1.21-1.0.5a.jar",
             "MD5": "0ae6aa50f2723386f8212b2cd1187345"
+          }
+        },
+        {
+          "id": "generated.forgemod:mr_no_collision:0.1@jar",
+          "name": "NoCollision",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 115982,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/no-collision-0.1.jar",
+            "MD5": "90b1531f84e5f61c2ece820730ae83b1"
           }
         },
         {
@@ -2626,6 +2946,29 @@
           }
         },
         {
+          "id": "generated.forgemod:particle_core:0.2.6+1.21+neoforge@jar",
+          "name": "Particle Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 95443,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/optionalon/particle_core-0.2.6+1.21+neoforge.jar",
+            "MD5": "362a5b0e913e505de1891bf28d6d6e41"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:passablefoliage:9.1.2+neoforge@jar",
+          "name": "Passable Foliage",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 31289,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/PassableFoliage-1.21.1-NeoForge-9.1.2.jar",
+            "MD5": "0723a4dc118d1dcf15e3aae7bd66e716"
+          }
+        },
+        {
           "id": "generated.forgemod:pipeorgans:0.6.4+1.21.1@jar",
           "name": "Create: Sound of Steam",
           "type": "ForgeMod",
@@ -2673,6 +3016,16 @@
             "size": 66136,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/playersafelogin-1.0.1.jar",
             "MD5": "061464a5625fec417b7db38c02a01953"
+          }
+        },
+        {
+          "id": "generated.forgemod:prickle:21.1.8@jar",
+          "name": "PrickleMC",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 83725,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/prickle-neoforge-1.21.1-21.1.8.jar",
+            "MD5": "bac67a3f7690095993e68d47f6b6b533"
           }
         },
         {
@@ -2828,6 +3181,16 @@
           }
         },
         {
+          "id": "generated.forgemod:skippy:pearls-1.21@jar",
+          "name": "Skippy",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5783,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/skippy-pearls-1.21.jar",
+            "MD5": "adb06f17e89818ec0df2d5e548ff7df6"
+          }
+        },
+        {
           "id": "generated.forgemod:sliceanddice:4.0.1@jar",
           "name": "Create Slice & Dice",
           "type": "ForgeMod",
@@ -2881,6 +3244,16 @@
           }
         },
         {
+          "id": "generated.forgemod:sort_it_out:1.1.2+1.21.1@jar",
+          "name": "Sort It Out!",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 103793,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/sort_it_out-neoforge-1.1.2+1.21.1.jar",
+            "MD5": "e79214c42b959f607e3d5ea8abc0d916"
+          }
+        },
+        {
           "id": "generated.forgemod:sound_physics_remastered:1.21.1-1.4.12@jar",
           "name": "Sound Physics Remastered",
           "type": "ForgeMod",
@@ -2927,6 +3300,16 @@
             "size": 34478,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/staaaaaaaaaaaack-neoforge-1.21.1-1.7.jar",
             "MD5": "ff67552962b52336198cad5ecc518005"
+          }
+        },
+        {
+          "id": "generated.forgemod:stevesrealisticsleep:1.11.2+mc1.21-1.21.1@jar",
+          "name": "Steve's Realistic Sleep",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 199529,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/stevesrealisticsleep-neoforge-1.11.2+mc1.21-1.21.1.jar",
+            "MD5": "a72eda5ca47f0baa0b3847d2a00f055e"
           }
         },
         {
@@ -2980,6 +3363,16 @@
           }
         },
         {
+          "id": "generated.forgemod:tool_trims:2.2.2b@jar",
+          "name": "Tool Trims",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1909145,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/tool-trims-packaged-v2.2.2b.jar",
+            "MD5": "7b157c82ec62d4276320c1524e1733f7"
+          }
+        },
+        {
           "id": "generated.forgemod:toomanypaintings:24.7.27-1.21-neoforge@jar",
           "name": "Too Many Paintings",
           "type": "ForgeMod",
@@ -2997,6 +3390,16 @@
             "size": 6128519,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/trafficcraft-neoforge-1.21.1-1.1.3.jar",
             "MD5": "92f61837029df45ada5e4a6de2beaf44"
+          }
+        },
+        {
+          "id": "generated.forgemod:trashslot:21.1.4@jar",
+          "name": "TrashSlot",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 123189,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/trashslot-neoforge-1.21.1-21.1.4.jar",
+            "MD5": "b3398fcb498663e6b515664ca7299934"
           }
         },
         {
@@ -3097,6 +3500,16 @@
             "size": 1489396,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/wither_spawn_animation-1.5.2-neoforge-1.21.1.jar",
             "MD5": "108294c28fcb369ca2871887fafdb533"
+          }
+        },
+        {
+          "id": "com.natamus:wooltweaks:3.9@jar",
+          "name": "Wool Tweaks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 48753,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/wooltweaks-1.21.1-3.9.jar",
+            "MD5": "90b58586276e32e0133a0b9364b0b4b1"
           }
         },
         {
@@ -3331,9 +3744,9 @@
           "name": "title_screen_t.txt",
           "type": "File",
           "artifact": {
-            "size": 34604,
+            "size": 38558,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/files/config/fancymenu/customization/title_screen_t.txt",
-            "MD5": "8bf3ebd8d491d48579311a8a82a7cec0",
+            "MD5": "324bbaec993021d25358b0821b939eeb",
             "path": "config/fancymenu/customization/title_screen_t.txt"
           }
         },
@@ -3375,9 +3788,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 2001,
+            "size": 2000,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/files/config/fancymenu/options.txt",
-            "MD5": "9760cc641aae3adc34ad01264e2acf9a",
+            "MD5": "6bdab503e7521c98a3f107cb66a53b8e",
             "path": "config/fancymenu/options.txt"
           }
         },
