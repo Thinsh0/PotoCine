@@ -638,6 +638,16 @@
           }
         },
         {
+          "id": "com.github.alexthe666:alexsmobs:1.21.1@jar",
+          "name": "Alexsmobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25655463,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/alexsmobs-1.21.1.jar",
+            "MD5": "0ba48ab00c965c7acaa061d0844d9f17"
+          }
+        },
+        {
           "id": "generated.forgemod:ambiance:1.1.0@jar",
           "name": "Ambiance",
           "type": "ForgeMod",
@@ -770,6 +780,16 @@
             "size": 54641,
             "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/badpackets-neo-0.8.2.jar",
             "MD5": "4fe656b58e247341dbdf815d161af375"
+          }
+        },
+        {
+          "id": "generated.forgemod:balm:21.0.46@jar",
+          "name": "Balm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 584593,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/balm-neoforge-1.21.1-21.0.46.jar",
+            "MD5": "92e628426c2aa33554e580b06312aba9"
           }
         },
         {
@@ -2165,6 +2185,16 @@
           }
         },
         {
+          "id": "generated.forgemod:immersive_portals_core:6.0.7@jar",
+          "name": "Immersive Portals",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1864746,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/immersive_portals-6.0.7-all.jar",
+            "MD5": "d9cd9b91b9eb9508dc361316778c5d98"
+          }
+        },
+        {
           "id": "generated.forgemod:immersivedamageindicators:1.0.0@jar",
           "name": "Immersive Damage Indicators",
           "type": "ForgeMod",
@@ -2412,6 +2442,16 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:lesdiscderaptor:1.0.0@jar",
+          "name": "LesDiscDeRaptor",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11797121,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/lesdiscderaptor-2.0.0-neoforge-1.21.1.jar",
+            "MD5": "58b0e9854788043e8e235cf75436d282"
           }
         },
         {
@@ -3052,6 +3092,16 @@
           }
         },
         {
+          "id": "generated.forgemod:resourcefullib:3.0.11@jar",
+          "name": "Resourceful Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 483221,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/resourcefullib-neoforge-1.21-3.0.11.jar",
+            "MD5": "c98d98a51b314e7f002fe656219865f2"
+          }
+        },
+        {
           "id": "generated.forgemod:resourcefullib:3.0.12@jar",
           "name": "Resourceful Lib",
           "type": "ForgeMod",
@@ -3128,6 +3178,16 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:skippy:pearls-1.21@jar",
+          "name": "Skippy",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5783,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/skippy-pearls-1.21.jar",
+            "MD5": "adb06f17e89818ec0df2d5e548ff7df6"
           }
         },
         {

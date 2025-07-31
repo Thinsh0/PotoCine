@@ -2445,6 +2445,16 @@
           }
         },
         {
+          "id": "generated.forgemod:lesdiscderaptor:1.0.0@jar",
+          "name": "LesDiscDeRaptor",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11797121,
+            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/lesdiscderaptor-2.0.0-neoforge-1.21.1.jar",
+            "MD5": "58b0e9854788043e8e235cf75436d282"
+          }
+        },
+        {
           "id": "generated.forgemod:lespiecesderaptor:1.0.0@jar",
           "name": "LesPiecesDeRaptor",
           "type": "ForgeMod",
