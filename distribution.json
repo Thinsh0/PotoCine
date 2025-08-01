@@ -628,26 +628,6 @@
           }
         },
         {
-          "id": "generated.forgemod:mr_afk_sit:1.0.1@jar",
-          "name": "AFK Sit",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 81092,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/afk-sit-1.0.1.jar",
-            "MD5": "a788cd4618dd0678dda497401e7de01f"
-          }
-        },
-        {
-          "id": "com.github.alexthe666:alexsmobs:1.21.1@jar",
-          "name": "Alexsmobs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 25655463,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/alexsmobs-1.21.1.jar",
-            "MD5": "0ba48ab00c965c7acaa061d0844d9f17"
-          }
-        },
-        {
           "id": "generated.forgemod:ambiance:1.1.0@jar",
           "name": "Ambiance",
           "type": "ForgeMod",
