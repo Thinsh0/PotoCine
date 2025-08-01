@@ -2132,16 +2132,6 @@
           }
         },
         {
-          "id": "generated.forgemod:immersive_portals_core:6.0.7@jar",
-          "name": "Immersive Portals",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1864746,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/immersive_portals-6.0.7-all.jar",
-            "MD5": "d9cd9b91b9eb9508dc361316778c5d98"
-          }
-        },
-        {
           "id": "generated.forgemod:immersivedamageindicators:1.0.0@jar",
           "name": "Immersive Damage Indicators",
           "type": "ForgeMod",
@@ -3115,16 +3105,6 @@
           },
           "required": {
             "value": false
-          }
-        },
-        {
-          "id": "generated.forgemod:skippy:pearls-1.21@jar",
-          "name": "Skippy",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5783,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/skippy-pearls-1.21.jar",
-            "MD5": "adb06f17e89818ec0df2d5e548ff7df6"
           }
         },
         {
