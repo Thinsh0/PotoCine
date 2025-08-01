@@ -1168,26 +1168,6 @@
           }
         },
         {
-          "id": "generated.forgemod:corpse:1.21.1-1.1.10@jar",
-          "name": "Corpse",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 247221,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/corpse-neoforge-1.21.1-1.1.10.jar",
-            "MD5": "cccb3e90105b73b696da09883f6e6288"
-          }
-        },
-        {
-          "id": "generated.forgemod:corpsecurioscompat:2.2.2@jar",
-          "name": "Corpse Curios Compatibility",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 8276,
-            "url": "https://github.com/Thinsh0/PotoCine/raw/refs/heads/main/servers/PotoRP-1.21.1/forgemods/required/corpsecurioscompat-1.21.1-NeoForge-2.2.2.jar",
-            "MD5": "389ee0d6cf1e3f8e8b029a251b341837"
-          }
-        },
-        {
           "id": "generated.forgemod:create_aquatic_ambitions:2.0.0-b@jar",
           "name": "Create Aquatic Ambitions",
           "type": "ForgeMod",
